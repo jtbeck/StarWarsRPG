@@ -13,7 +13,7 @@
 | **Module** | Tatooine Manhunt (WEG40005) |
 | **Current Day** | Night of Day 2 / Dawn of Day 3 |
 | **Hard Deadline** | Star Destroyer *Relentless* arrives end of Day 4 |
-| **Ship** | *Alabak's Gold* — Modified Mon Calamari freighter, [Docking Bay 94](https://starwars.fandom.com/wiki/Docking_Bay_94/Legends) |
+| **Ship** | *Centennial Duck* — Corellian VTX-100 freighter, [Docking Bay 94](https://starwars.fandom.com/wiki/Docking_Bay_94/Legends) |
 
 ### The Mission
 Find and protect **Graff Raster** — fallen Jedi, estranged uncle of Captain Bora and Indie — before [Jodo Kast](https://starwars.fandom.com/wiki/Jodo_Kast) captures him for the Empire. Three possible locations in the [Tatooine](https://starwars.fandom.com/wiki/Tatooine/Legends) Wastes: ~~Sedi Fisk's Desert Manor~~ (ruined), ~~Lank's Farm~~ (destroyed by IG-72), **Tusken Fort** (correct location).
@@ -136,7 +136,7 @@ Henry cannot walk through [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisl
 |---|---|
 | **Arno's cargo skiff** | Arno can pull around to the rear alley. Henry in the hold, tarp over the top. Classic. |
 | **Baz's landspeeder** | Two streets over. Baz drives if released. Gets them out fast, no questions. He disappears after. |
-| ***Alabak's Gold*** | Viable if they abandon the Wastes mission. They won't. |
+| ***Centennial Duck*** | Viable if they abandon the Wastes mission. They won't. |
 
 ---
 
@@ -656,11 +656,11 @@ Weathered human smuggler. Arrested for being in the wrong place during the canti
 
 ---
 
-### *Alabak's Gold* — Party Ship
+### *Centennial Duck* — Party Ship
 
 | Spec | Value |
 |---|---|
-| Type | Modified [Mon Calamari](https://starwars.fandom.com/wiki/Mon_Calamari/Legends) jump freighter |
+| Type | Corellian VTX-100 freighter |
 | Crew | Pilot, co-pilot, navigator, shields/comms, 2 gunners |
 | Passengers | 6 |
 | Cargo | 75 metric tons |

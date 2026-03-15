@@ -77,7 +77,7 @@ Henry cannot walk through [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisl
 |---|---|
 | **[Arno's](../npcs/old-arno.md) cargo skiff** | Pull around to rear alley. Henry in the hold under a tarp. |
 | **Baz's landspeeder** | Two streets over. He drives if released. Disappears after. |
-| ***[Alabak's Gold](../ships/alabaks-gold.md)*** | Only if abandoning the Wastes mission entirely. |
+| ***[Centennial Duck](../ships/centennial-duck.md)*** | Only if abandoning the Wastes mission entirely. |
 
 ---
 

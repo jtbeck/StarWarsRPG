@@ -12,7 +12,7 @@
 | | |
 |---|---|
 | **Species** | [Human](https://starwars.fandom.com/wiki/Human/Legends) |
-| **Role** | Pilot, navigator, *Alabak's Gold* primary helm |
+| **Role** | Pilot, navigator, *Centennial Duck* primary helm |
 | **Sibling** | [Captain Bora](captain-bora.md) |
 | **Unknown to player** | [Graff Raster](../npcs/graff-raster.md) is her estranged uncle |
 
@@ -30,7 +30,7 @@ Reddish-brown hair, light jacket and flight suit. Carries a flight helmet. Looks
 
 ## Character Notes
 
-Indie is the *[Alabak's Gold](../ships/alabaks-gold.md)*'s primary pilot. In Episode 8 she'll be at the helm for the escape from [Tatooine](https://starwars.fandom.com/wiki/Tatooine/Legends) and the dogfight against the [TIE Interceptors](../ships/tie-interceptors.md).
+Indie is the *[Centennial Duck](../ships/centennial-duck.md)*'s primary pilot. In Episode 8 she'll be at the helm for the escape from [Tatooine](https://starwars.fandom.com/wiki/Tatooine/Legends) and the dogfight against the [TIE Interceptors](../ships/tie-interceptors.md).
 
 *The uncle reveal lands differently for Indie than for Bora — worth thinking about how she carries it.*
 

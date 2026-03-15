@@ -32,7 +32,7 @@ The TIEs use speed, combined fire, and evasion. They attempt to lightly damage t
 
 **Escape condition:** If the Rebel ships increase range to greater than long range, or survive 10 rounds of combat, they move out of [Tatooine](https://starwars.fandom.com/wiki/Tatooine/Legends)'s gravity well and can jump to hyperspace.
 
-**Failure condition:** If *Alabak's Gold* is destroyed or rolls a 1 or 3 on the "Starship System Damage Table," the *Relentless* arrives and captures the ships with tractor beams.
+**Failure condition:** If *Centennial Duck* is destroyed or rolls a 1 or 3 on the "Starship System Damage Table," the *Relentless* arrives and captures the ships with tractor beams.
 
 ## The *Relentless*
 

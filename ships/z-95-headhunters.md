@@ -27,13 +27,13 @@ Four modified [Z-95 Headhunters](https://starwars.fandom.com/wiki/Z-95_Headhunte
 
 ## Pilot Escape Feature
 
-If a Z-95 is severely damaged, the pilot makes an Easy *survival* roll. On success, the escape mechanism ejects the pilot safely. The pilot of *Alabak's Gold* must make a Moderate *starship piloting* roll to pick up a survivor — attempting pickup negates the ship's evasion rolls for that round.
+If a Z-95 is severely damaged, the pilot makes an Easy *survival* roll. On success, the escape mechanism ejects the pilot safely. The pilot of *Centennial Duck* must make a Moderate *starship piloting* roll to pick up a survivor — attempting pickup negates the ship's evasion rolls for that round.
 
 ## Episode 8 Role
 
-Raster suggests the Z-95s escort *Alabak's Gold* through the [TIE Interceptor](tie-interceptors.md) gauntlet. He offers the Rebels his tactical breakdown:
+Raster suggests the Z-95s escort *Centennial Duck* through the [TIE Interceptor](tie-interceptors.md) gauntlet. He offers the Rebels his tactical breakdown:
 
-> *"Z-95 vs. TIE, Z-95 vs. TIE, Alabak's Gold and Z-95 vs. TIE."*
+> *"Z-95 vs. TIE, Z-95 vs. TIE, Centennial Duck and Z-95 vs. TIE."*
 
 ---
 

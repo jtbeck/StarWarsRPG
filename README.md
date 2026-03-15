@@ -84,7 +84,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 
 | Ship | Owner | Role |
 |---|---|---|
-| [*Alabak's Gold*](ships/alabaks-gold.md) | The Party | Mon Calamari freighter, party ship |
+| [*Centennial Duck*](ships/centennial-duck.md) | The Party | Corellian VTX-100 freighter, party ship |
 | [Z-95 Headhunters](ships/z-95-headhunters.md) | Graff Raster | Modified fighters at Tusken Fort |
 | [TIE Interceptors](ships/tie-interceptors.md) | Galactic Empire | Final space battle, Episode 8 |
 

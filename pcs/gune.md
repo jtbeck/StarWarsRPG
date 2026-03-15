@@ -12,7 +12,7 @@
 | | |
 |---|---|
 | **Species** | Small alien |
-| **Role** | Mechanic, tech specialist, *Alabak's Gold* engineer |
+| **Role** | Mechanic, tech specialist, *Centennial Duck* engineer |
 | **Ward** | [Henry](henry.md) — Wookiee rescued from slavery |
 
 ## Description
