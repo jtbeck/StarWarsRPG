@@ -36,7 +36,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 | ![Eck](images/Eck.png) | **[Eck](pcs/eck.md)** | Blue-skinned alien | Combat specialist |
 | ![Gune](images/Gune.png) | **[Gune](pcs/gune.md)** | Small alien | Mechanic & tech specialist. Henry's guardian. |
 | *(portrait pending)* | **[Gamorrean PC](pcs/gamorrean.md)** | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) | Former Jabba guard |
-| *(NPC companion)* | **[Henry](pcs/henry.md)** | [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends) | Adolescent ward of Gune |
+| ![Henry](images/Henry.png) | **[Henry](pcs/henry.md)** | [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends) | Adolescent ward of Gune |
 
 ---
 
