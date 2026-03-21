@@ -45,7 +45,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 | Session | Title | Day | Status |
 |---|---|---|---|
 | [The Jailbreak](sessions/jailbreak.md) | Break Henry out of Mos Eisley jail | Night, Day 2 | **← NEXT** |
-| [Episode 5 — Exploring the Wastes](sessions/episode-05-exploring-the-wastes.md) | Into the desert with Old Arno | Day 3 | Upcoming |
+| [Season 2 Episode 1 — Exploring the Wastes](sessions/season-2-1.md) | Into the desert with Old Arno | Day 3 | Upcoming |
 
 ---
 
