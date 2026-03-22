@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  @page {
+    size: letter;
+    margin: 0;
+  }
+
+  body {
+    font-family: 'Crimson Text', Georgia, serif;
+    font-size: 11.5pt;
+    line-height: 1.5;
+    color: #e0d6a8;
+    background: #0a0a0a;
+  }
+
+  /* --- COVER PAGE --- */
+  .cover {
+    page-break-after: always;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(ellipse at center, #1a1a2e 0%, #0a0a0a 70%);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .cover::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: radial-gradient(1px 1px at 20% 30%, #fff 0%, transparent 100%),
+                radial-gradient(1px 1px at 40% 70%, #fff 0%, transparent 100%),
+                radial-gradient(1px 1px at 60% 20%, #fff 0%, transparent 100%),
+                radial-gradient(1px 1px at 80% 50%, #fff 0%, transparent 100%),
+                radial-gradient(1px 1px at 10% 80%, #ddd 0%, transparent 100%),
+                radial-gradient(1px 1px at 70% 90%, #ddd 0%, transparent 100%),
+                radial-gradient(1px 1px at 30% 50%, #ccc 0%, transparent 100%),
+                radial-gradient(1px 1px at 90% 10%, #ccc 0%, transparent 100%);
+    opacity: 0.4;
+  }
+  .cover h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 42pt;
+    font-weight: 900;
+    color: #FFE81F;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    text-shadow: 0 0 30px rgba(255,232,31,0.4);
+    z-index: 1;
+    margin-bottom: 10px;
+  }
+  .cover .subtitle {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 11pt;
+    color: #7eb8da;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    z-index: 1;
+    margin-bottom: 50px;
+  }
+  .cover .crawl-text {
+    font-family: 'Crimson Text', serif;
+    font-size: 11pt;
+    color: #c0b878;
+    max-width: 500px;
+    font-style: italic;
+    line-height: 1.7;
+    z-index: 1;
+    padding: 0 40px;
+  }
+  .cover .party-img {
+    z-index: 1;
+    margin-top: 40px;
+    width: 70%;
+    max-width: 520px;
+    border: 2px solid #FFE81F33;
+    border-radius: 4px;
+  }
+
+  /* --- CONTENT PAGES --- */
+  .page {
+    page-break-after: always;
+    padding: 45px 55px;
+    min-height: 100vh;
+    background: #0d0d0d;
+    position: relative;
+  }
+  .page:last-child { page-break-after: avoid; min-height: auto; }
+
+  .page::before {
+    content: '';
+    position: absolute;
+    top: 20px; left: 20px; right: 20px; bottom: 20px;
+    border: 1px solid #FFE81F22;
+    pointer-events: none;
+  }
+
+  h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18pt;
+    font-weight: 700;
+    color: #FFE81F;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #FFE81F33;
+  }
+
+  h3 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12pt;
+    font-weight: 700;
+    color: #7eb8da;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    margin-bottom: 10px;
+    text-align: justify;
+  }
+
+  strong { color: #f0e8c0; }
+  em { color: #c8b870; }
+
+  .highlight {
+    color: #FFE81F;
+    font-weight: 700;
+  }
+
+  .section-break {
+    border: none;
+    border-top: 1px solid #FFE81F22;
+    margin: 20px 0;
+  }
+
+  /* Crew grid */
+  .crew-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 12px;
+    margin: 16px 0;
+  }
+  .crew-card {
+    text-align: center;
+    background: #15151f;
+    border: 1px solid #FFE81F22;
+    border-radius: 4px;
+    padding: 10px 6px;
+  }
+  .crew-card img {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 3px;
+    margin-bottom: 6px;
+    border: 1px solid #FFE81F33;
+  }
+  .crew-card .name {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 8pt;
+    font-weight: 700;
+    color: #FFE81F;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .crew-card .role {
+    font-size: 8pt;
+    color: #8899aa;
+    margin-top: 2px;
+  }
+
+  .ship-line {
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 9.5pt;
+    color: #7eb8da;
+    margin: 12px 0;
+    letter-spacing: 1px;
+  }
+
+  /* Episode styling */
+  .episode-title {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 11pt;
+    font-weight: 700;
+    color: #FFE81F;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 18px;
+    margin-bottom: 4px;
+  }
+  .episode-sub {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 8.5pt;
+    color: #667788;
+    margin-bottom: 10px;
+  }
+
+  /* NPC tables */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 8px 0 16px 0;
+    font-size: 10pt;
+  }
+  th {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 8pt;
+    color: #667788;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: left;
+    padding: 4px 8px;
+    border-bottom: 1px solid #FFE81F33;
+  }
+  td {
+    padding: 5px 8px;
+    border-bottom: 1px solid #ffffff0a;
+    vertical-align: top;
+  }
+  td:first-child {
+    color: #f0e8c0;
+    font-weight: 600;
+    white-space: nowrap;
+    width: 160px;
+  }
+
+  .npc-category {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 8pt;
+    color: #667788;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 14px;
+    margin-bottom: 4px;
+  }
+  .npc-category.allies { color: #5bae5b; }
+  .npc-category.enemies { color: #cc4444; }
+  .npc-category.unknown { color: #cc9933; }
+  .npc-category.target { color: #7eb8da; }
+  .npc-category.backstory { color: #888; }
+
+  /* Where We Are Now box */
+  .status-box {
+    background: #12121e;
+    border: 1px solid #FFE81F33;
+    border-left: 3px solid #FFE81F;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 2px;
+  }
+  .status-box ul {
+    list-style: none;
+    padding: 0;
+  }
+  .status-box li {
+    padding: 4px 0;
+    padding-left: 16px;
+    position: relative;
+  }
+  .status-box li::before {
+    content: '>';
+    position: absolute;
+    left: 0;
+    color: #FFE81F;
+    font-family: 'Share Tech Mono', monospace;
+  }
+
+  .closing {
+    text-align: center;
+    font-style: italic;
+    color: #c8b870;
+    font-size: 12pt;
+    margin-top: 30px;
+    letter-spacing: 1px;
+  }
+
+  .scene-img {
+    width: 100%;
+    border: 1px solid #FFE81F22;
+    border-radius: 3px;
+    margin: 14px 0;
+  }
+
+  ul.plain {
+    list-style: none;
+    padding-left: 16px;
+  }
+  ul.plain li {
+    padding: 2px 0;
+    position: relative;
+  }
+  ul.plain li::before {
+    content: '—';
+    position: absolute;
+    left: -16px;
+    color: #FFE81F66;
+  }
+
+  .leads-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 8px 0;
+  }
+  .leads-list li {
+    padding: 3px 0 3px 20px;
+    position: relative;
+    font-weight: 600;
+    color: #f0e8c0;
+  }
+  .leads-list li::before {
+    content: counter(lead);
+    counter-increment: lead;
+    position: absolute;
+    left: 0;
+    color: #FFE81F;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 9pt;
+  }
+  .leads-list { counter-reset: lead; }
+</style>
+</head>
+<body>
+
+<!-- ============ COVER ============ -->
+<div class="cover">
+  <h1>The Story So Far</h1>
+  <div class="subtitle">A Prologue for Returning Players</div>
+  <div class="crawl-text">
+    The Galactic Empire tightens its grip on the galaxy. Resistance is scattered &mdash; isolated cells, desperate freedom fighters, and rogue operatives waging a shadow war with no central command and no guarantee that anyone else is even fighting. In the lawless Outer Rim Territories, the line between rebel and criminal is thin &mdash; and desperate people do desperate things to survive.
+  </div>
+  <img class="party-img" src="../images/party-cantina.png" alt="The crew of the Centennial Duck">
+</div>
+
+<!-- ============ PAGE 2: THE CREW + BEFORE TATOOINE + MISSION ============ -->
+<div class="page">
+  <h2>The Crew</h2>
+
+  <div class="crew-grid">
+    <div class="crew-card">
+      <img src="../images/Captain-Bora.png" alt="Captain Bora">
+      <div class="name">Captain Bora</div>
+      <div class="role">Human. Captain.</div>
+    </div>
+    <div class="crew-card">
+      <img src="../images/Indie.png" alt="Indie">
+      <div class="name">Indie</div>
+      <div class="role">Human. Pilot. Bora's sister.</div>
+    </div>
+    <div class="crew-card">
+      <img src="../images/Eck.png" alt="Eck">
+      <div class="name">Eck</div>
+      <div class="role">Ardennian. Four-armed combatant.</div>
+    </div>
+    <div class="crew-card">
+      <img src="../images/Gune.png" alt="Gune">
+      <div class="name">Gune</div>
+      <div class="role">Chadra-Fan. Mechanic &amp; tech wizard.</div>
+    </div>
+    <div class="crew-card">
+      <img src="../images/Henry.png" alt="Henry">
+      <div class="name">Henry</div>
+      <div class="role">Adolescent Wookiee. Gune's ward.</div>
+    </div>
+  </div>
+
+  <div class="ship-line">SHIP: <em>Centennial Duck</em> &mdash; Corellian VTX-100 Freighter (Modified) &bull; Twin Laser Cannons &bull; Hyperdrive x1</div>
+  <div class="ship-line" style="font-size:8pt; color:#556677;">Also aboard: <strong style="color:#c0b878;">Dooble</strong> &mdash; 3PO-series protocol droid, Indie's personal droid</div>
+
+  <hr class="section-break">
+
+  <h2>Before Tatooine</h2>
+
+  <p>The crew used to run jobs for <strong>Torel Vorne</strong>, a ruthless crimelord in the Outer Rim. One job went catastrophically wrong and cost Vorne a fortune. Vorne doesn't forgive debts &mdash; he sold the crew out to the Empire.</p>
+
+  <p>On the run and hunted, the crew crossed paths with <strong>Henry</strong> &mdash; an adolescent Wookiee being transported to the spice mines of Kessel as a slave. <strong>Gune</strong> rescued him. Henry has been part of the crew ever since.</p>
+
+  <p>Eventually, the crew fell in with <strong>General Kraken's</strong> rebel cell &mdash; not out of ideology, but out of necessity. Kraken gave them purpose. Or at least, a better class of trouble.</p>
+
+  <hr class="section-break">
+
+  <h2>The Mission</h2>
+
+  <p><strong>General Kraken</strong> &mdash; Bora's former commanding officer during the Clone Wars &mdash; called in a personal favor. His cell has learned that <strong>Graff Raster</strong> &mdash; a former Jedi, removed from the Order before the Clone Wars &mdash; is alive and hiding on Tatooine. Because he wasn't officially a Jedi when Order 66 came down, the Empire's purge passed him by. Until now. Kraken chose Bora for this mission for a reason: Graff Raster is Bora and Indie's <strong class="highlight">estranged uncle</strong>.</p>
+
+  <p>The Empire knows too. <strong>Captain Parlan</strong> of the Star Destroyer <em>Relentless</em> has hired a <strong>bounty hunter in Mandalorian armor</strong> &mdash; deadly, ruthless, and already one step ahead &mdash; to find Raster and bring him in.</p>
+
+  <p>The crew must find Graff Raster first and get him off-world before the Empire closes the trap.</p>
+</div>
+
+<!-- ============ PAGE 3: EPISODES 1 & 2 ============ -->
+<div class="page">
+  <h2>What Happened</h2>
+
+  <div class="episode-title">Episode 1 &mdash; Kwenn Space Station</div>
+  <div class="episode-sub">Day 1</div>
+
+  <p>The crew answered a distress call from <strong>Dana</strong>, one of Kraken's operatives aboard Kwenn Space Station &mdash; an Imperial-run facility. Since Imperials controlled the station, <strong>Bora and Indie</strong> were sent in first. Humans draw less suspicion.</p>
+
+  <p>They arrived too late &mdash; Dana was dead, killed by bounty hunters using <strong>Sennari poison darts</strong>. A firefight erupted with <strong>Lt. Voor</strong> and a squad of hunters. In the chaos, a figure in <strong>Mandalorian armor</strong> appeared briefly &mdash; commanding, lethal &mdash; before vanishing. Bora and Indie were overwhelmed and defeated.</p>
+
+  <p>Enter the rescue.</p>
+
+  <p><strong>Eck and Gune</strong> &mdash; both short aliens &mdash; stole an Imperial officer's uniform and wore it <em>together</em>, one on top of the other, passing themselves off as a single very oddly-proportioned Imperial. It worked. Kwenn Station is Imperial-run and nobody questions the uniform. They moved freely through the station, located Bora and Indie, and pulled off the rescue.</p>
+
+  <p>The crew recovered Dana's data storage pad. The message was clear: <em class="highlight">Graff Raster is alive. He's on Tatooine.</em></p>
+
+  <p>The escape was not subtle. During the getaway, <strong>Gune blew up a train</strong> that operated on the station &mdash; the <em>second</em> train Gune has destroyed in his career. The Empire has since used these attacks in their propaganda, broadcasting the destruction to foment hatred of the Rebellion among the civilian population.</p>
+
+  <p>The crew escaped aboard the <em>Centennial Duck</em> just before an Imperial quarantine locked down the station. The Star Destroyer <em>Relentless</em> was docked at Kwenn for repairs &mdash; roughly five days behind them.</p>
+
+  <hr class="section-break">
+
+  <div class="episode-title">Episode 2 &mdash; Welcome to Mos Eisley</div>
+  <div class="episode-sub">Day 2</div>
+
+  <p>The <em>Duck</em> touched down at <strong>Docking Bay 94</strong>. A bribed customs officer looked the other way.</p>
+
+  <p>Mos Eisley was already crawling with bounty hunters. The crew explored the cantina, the general store, and the streets around Jabba's Townhouse. They met <strong>Labria</strong> &mdash; a drunken humanoid info broker, eager to talk for the price of a drink.</p>
+
+  <p>They learned that Tatooine's <strong>oldsters</strong> &mdash; passengers from the original colony ship &mdash; were being murdered. A man named <strong>Heff</strong> was the latest victim.</p>
+
+  <p>At Tar Lup's store, <strong>Akkik &amp; Gorrt</strong> (Jabba's goons) were shaking down the owner. Jawa traders passed through. And a labor droid called <strong>Four-el</strong> mistook a local farmer named <strong>Bels Lank</strong> for Graff Raster. The assassin droid <strong>IG-72</strong> killed Four-el on the spot and headed for Lank's farm.</p>
+
+  <p>Meanwhile, <strong>Puggles Trodd</strong> &mdash; a rodent-like bounty hunter with a love of explosives &mdash; had set up a hunter registration booth. The competition was getting organized.</p>
+</div>
+
+<!-- ============ PAGE 4: EPISODES 3 & 4 ============ -->
+<div class="page">
+
+  <div class="episode-title">Episode 3 &mdash; Blood on the Sand</div>
+  <div class="episode-sub">Day 2, Evening</div>
+
+  <p><strong>Labria</strong> led the crew to the <strong>Tower Ridge Water Silo</strong> to meet <strong>Slag Flats</strong>, an Ithorian info broker who supposedly knew where Raster was hiding.</p>
+
+  <p>They arrived to find Slag already dead. The Mandalorian had gotten there first.</p>
+
+  <p>Then the trap sprang. <strong>A man with a knife for a hand</strong> sealed the magnetic doors, locking the crew inside the silo. Water began rising fast.</p>
+
+  <p>The crew fought their way out &mdash; swimming, blasting through barriers &mdash; and survived a chase across the desert with four bounty hunters in a landspeeder.</p>
+
+  <p><strong>Eck</strong> grabbed a swoop bike and gave chase after the knife-handed man, but he got away.</p>
+
+  <hr class="section-break">
+
+  <div class="episode-title">Episode 4 &mdash; Cantina Ambush</div>
+  <div class="episode-sub">Day 2, Night</div>
+
+  <p>Back in Mos Eisley, the crew received a message from <strong>&ldquo;Old Arno&rdquo;</strong> via the innkeeper, asking them to come to the cantina. The messenger was actually <strong>Labria</strong> &mdash; now working for the Mandalorian.</p>
+
+  <p>It was a setup. <strong>Puggles Trodd</strong> and four bounty hunters surrounded their booth. Then a figure in <strong>Mandalorian armor</strong> stepped from the shadows, fired a poison dart at one of the crew, and vanished into the dark.</p>
+
+  <p>The fight was brutal. Blaster fire, overturned tables, screaming patrons.</p>
+
+  <p>And then <strong class="highlight">Henry snapped.</strong></p>
+
+  <p>The adolescent Wookiee flew into a <strong>berserker rage</strong> &mdash; roaring, unstoppable, terrifying. He charged out of the cantina and into the streets of Mos Eisley, beating bounty hunters with their own severed limbs. By the time the red haze cleared, the <strong>Mos Eisley militia</strong> had him in restraints.</p>
+
+  <p>Puggles threw a smoke screamer grenade and retreated toward Jabba's Townhouse. The remaining hunters scattered or died.</p>
+
+  <p>In the aftermath, a figure stepped from the shadows. The real <strong>Old Arno</strong> &mdash; a weathered desert scout. He'd been watching. Waiting for the right moment.</p>
+
+  <p>Arno told them: Slag and Heff were killed because they knew about Graff Raster. He had three leads on Raster's location:</p>
+
+  <ol class="leads-list">
+    <li>Lank's Farm</li>
+    <li>Sedi Fisk's Desert Manor</li>
+    <li>Tusken Fort</li>
+  </ol>
+
+  <p>He offered to guide them into the Wastes at <strong>Second Dawn &mdash; Day 3</strong>.</p>
+</div>
+
+<!-- ============ PAGE 5: WHERE WE ARE + NPCs ============ -->
+<div class="page">
+
+  <img class="scene-img" src="../images/party-combat.png" alt="The crew in combat" style="margin-top:0; margin-bottom: 20px;">
+
+  <h2>Where We Are Now</h2>
+
+  <p>It is <strong>late on Day 2</strong>. The twin suns have set over Mos Eisley.</p>
+
+  <div class="status-box">
+    <ul>
+      <li><strong>Henry is locked in a Mos Eisley jail cell.</strong> The crew has until dawn to get him out.</li>
+      <li><strong>Old Arno</strong> is waiting. He leaves at first light &mdash; with or without them.</li>
+      <li><strong>The Mandalorian</strong> and most of the bounty hunters have already departed for the Wastes. He has a head start.</li>
+      <li>The Star Destroyer <strong><em>Relentless</em></strong> is en route. By your calculations, it could arrive in just a few days. When it does, Tatooine becomes an Imperial lockdown. No one gets off-world.</li>
+      <li>Somewhere out in the desert, <strong>Graff Raster</strong> waits &mdash; unaware that the galaxy is closing in around him.</li>
+    </ul>
+  </div>
+
+  <p style="text-align:center; font-weight:700; color:#FFE81F; font-family:'Orbitron',sans-serif; font-size:10pt; letter-spacing:2px; margin-top:10px;">THE CLOCK IS TICKING.</p>
+
+
+</div>
+
+<!-- ============ PAGE 6: KEY NPCs ============ -->
+<div class="page" style="display:flex; flex-direction:column;">
+
+  <h2>Key NPCs</h2>
+
+  <div class="npc-category allies">ALLIES</div>
+  <table>
+    <tr><td>General Kraken</td><td>Rebel cell leader. Bora's former CO during the Clone Wars. Sent the crew on this mission.</td></tr>
+    <tr><td>Old Arno</td><td>Desert scout. Knows the Wastes. Waiting to guide the crew at dawn.</td></tr>
+  </table>
+
+  <div class="npc-category enemies">ENEMIES</div>
+  <table>
+    <tr><td>"The Mandalorian"</td><td>Elite bounty hunter. Mandalorian armor. Poison darts. Name unknown. Already in the Wastes.</td></tr>
+    <tr><td>Zardra</td><td>Female bounty hunter running with the Mandalorian's crew. Force pike. Dangerous.</td></tr>
+    <tr><td>Puggles Trodd</td><td>Rodent-like bounty hunter. Loves explosives. Fled the cantina ambush.</td></tr>
+    <tr><td>IG-72</td><td>Assassin droid. Operating independently. Last seen heading to Lank's Farm.</td></tr>
+    <tr><td>Labria</td><td>Info broker turned traitor. Now feeding intel to the Mandalorian.</td></tr>
+    <tr><td>Captain Parlan</td><td>Commander of the <em>Relentless</em>. En route to Tatooine.</td></tr>
+  </table>
+
+  <div class="npc-category unknown">UNKNOWN</div>
+  <table>
+    <tr><td>The knife-handed man</td><td>Trapped the crew inside the Tower Ridge water silo and fled. Eck gave chase on a swoop bike but lost him.</td></tr>
+  </table>
+
+  <div class="npc-category target">THE TARGET</div>
+  <table>
+    <tr><td>Graff Raster</td><td>Fallen Jedi. Removed from the Order before the Clone Wars &mdash; escaped the purge. Hiding somewhere in the Tatooine Wastes. Estranged uncle of Captain Bora and Indie.</td></tr>
+  </table>
+
+  <div class="npc-category backstory">BACKSTORY</div>
+  <table>
+    <tr><td>Torel Vorne</td><td>Outer Rim crimelord. Former employer. Sold the crew out to the Empire after a failed job.</td></tr>
+  </table>
+
+  <div class="closing" style="margin-top: 30px;">The desert does not forgive the slow.</div>
+
+</div>
+
+</body>
+</html>
