@@ -17,7 +17,7 @@
 | **Henry** | Adolescent Wookiee. Gune's ward. Young, but formidable — and prone to berserker rages. |
 | **Dooble** | 3PO-series protocol droid. Indie's personal droid. |
 
-**Ship:** *Centennial Duck* — Modified Mon Calamari jump freighter. Twin laser cannons. Hyperdrive x1. Home.
+**Ship:** *Centennial Duck* — Corellian VTX-100 freighter (modified). Twin laser cannons. Hyperdrive x1. Home.
 
 ---
 
@@ -68,7 +68,6 @@ The *Duck* touched down at **Docking Bay 94**. A bribed customs officer looked t
 Mos Eisley was already crawling with bounty hunters. The crew explored the cantina, the general store, and the streets around Jabba's Townhouse. They met:
 
 - **Labria** — a drunken humanoid info broker, eager to talk for the price of a drink
-- **Edu Harn** — an old woman who knew about the Sand People and warned them about Labria
 
 They learned that Tatooine's **oldsters** — passengers from the original colony ship — were being murdered. A man named **Heff** was the latest victim.
 
@@ -84,11 +83,11 @@ Meanwhile, **Puggles Trodd** — a rodent-like bounty hunter with a love of expl
 
 They arrived to find Slag already dead. The Mandalorian had gotten there first.
 
-Then the trap sprang. **Quist** — a pirate who had been posing as a friendly contact — sealed the magnetic doors, locking the crew inside the silo. Water began rising fast.
+Then the trap sprang. **A man with a knife for a hand** sealed the magnetic doors, locking the crew inside the silo. Water began rising fast.
 
 The crew fought their way out — swimming, blasting through barriers — and survived a chase across the desert with four bounty hunters in a landspeeder.
 
-Quist, meanwhile, slipped away and returned to Graff Raster's fortress. He was playing both sides.
+**Eck** grabbed a swoop bike and gave chase after the knife-handed man, but he got away.
 
 ---
 
@@ -125,7 +124,7 @@ It is **late on Day 2**. The twin suns have set over Mos Eisley.
 - **Henry is locked in a Mos Eisley jail cell.** The crew has until dawn to get him out.
 - **Old Arno** is waiting. He leaves at first light — with or without them.
 - **The Mandalorian** and most of the bounty hunters have already departed for the Wastes. He has a head start.
-- The Star Destroyer ***Relentless*** is en route. It arrives at the end of **Day 4**. When it does, Tatooine becomes an Imperial lockdown. No one gets off-world.
+- The Star Destroyer ***Relentless*** is en route. By your calculations, it could arrive in just a few days. When it does, Tatooine becomes an Imperial lockdown. No one gets off-world.
 - Somewhere out in the desert, **Graff Raster** waits — unaware that the galaxy is closing in around him.
 
 **The clock is ticking.**
@@ -139,7 +138,6 @@ It is **late on Day 2**. The twin suns have set over Mos Eisley.
 |---|---|
 | **General Kraken** | Rebel cell leader. Bora's former CO during the Clone Wars. Sent the crew on this mission. |
 | **Old Arno** | Desert scout. Knows the Wastes. Waiting to guide the crew at dawn. |
-| **Edu Harn** | Old woman in Mos Eisley. Knows local history and gossip. |
 
 ### Enemies
 | NPC | Description |
@@ -151,10 +149,10 @@ It is **late on Day 2**. The twin suns have set over Mos Eisley.
 | **Labria** | Info broker turned traitor. Now feeding intel to the Mandalorian. |
 | **Captain Parlan** | Commander of the *Relentless*. En route to Tatooine. |
 
-### Unknown Allegiance
+### Unknown
 | NPC | Description |
 |---|---|
-| **Quist** | Pirate. Seems friendly. *He is not.* Secretly working against Graff Raster. |
+| **The knife-handed man** | Trapped the crew inside the Tower Ridge water silo and fled. Eck gave chase on a swoop bike but lost him. |
 
 ### The Target
 | NPC | Description |
