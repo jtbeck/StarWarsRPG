@@ -15,6 +15,7 @@
 | **Eck** | Ardennian. Four-armed, blue-skinned. Combat specialist and spacecraft operator. |
 | **Gune** | Chadra-Fan. Small, bat-faced, big-eared. Mechanic, tech wizard, and Henry's guardian. |
 | **Henry** | Adolescent Wookiee. Gune's ward. Young, but formidable — and prone to berserker rages. |
+| **Dooble** | 3PO-series protocol droid. Indie's personal droid. |
 
 **Ship:** *Centennial Duck* — Modified Mon Calamari jump freighter. Twin laser cannons. Hyperdrive x1. Home.
 
