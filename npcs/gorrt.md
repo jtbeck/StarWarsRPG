@@ -11,7 +11,7 @@ Green-skinned [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) wi
 
 ## Current Status
 
-Currently in the [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends) medical bay. The new [Gamorrean PC](../pcs/gamorrean.md) put him through a table during the cantina fight. He will recover. He will remember.
+Currently in the [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends) medical bay, caught in the crossfire during the cantina ambush. He will recover. He will remember.
 
 ## Stats
 

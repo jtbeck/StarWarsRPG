@@ -28,7 +28,7 @@ Find and protect **Graff Raster** — fallen Jedi, estranged uncle of Captain Bo
 | **Indie** | — | [Human](https://starwars.fandom.com/wiki/Human/Legends) | Pilot/navigator. Bora's sister. Graff Raster's niece. |
 | **Eck** | — | Blue-skinned alien | Combat specialist |
 | **Gune** | — | Small alien | Mechanic/tech specialist. Henry's guardian. |
-| **[New Gamorrean PC]** | — | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) | Former Jabba guard. Met Henry in the jail cell. |
+| **Torbek** | Trevor | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) | Former Jabba collector. Missing protection money. Jabba wants him dead. Met Henry in the jail cell. |
 
 ### Henry
 Adolescent [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends). Rescued from slavery by Gune. Travels with the group.
@@ -101,7 +101,7 @@ A converted stone storage vault attached to the **Regional Government Office** (
 - Finding Depp's home: Easy *streetwise* roll, or ask any local
 - Bribing Depp directly: Opposed *bargain* roll. Release fee: **500 credits**, or a convincing argument. [Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends)'s name is a strong argument — *"This Wookiee is Jabba's property and you're causing an incident."*
 - Bribing the militia: 100 credits each. They'll look the other way but cannot release prisoners without Depp's keys.
-- **Best angle:** The [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends)'s connection to [Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends). [Akkik](https://starwars.fandom.com/wiki/Akkik) and [Gorrt](https://starwars.fandom.com/wiki/Gorrt) work for Jabba. The militia knows this. Framing the Gamorrean's release as "Jabba's business" makes them very eager to cooperate.
+- **Caution:** Don't invoke [Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends)'s name to spring Torbek. [Akkik](https://starwars.fandom.com/wiki/Akkik) and [Gorrt](https://starwars.fandom.com/wiki/Gorrt) work for Jabba and the militia knows it, but Jabba wants Torbek dead over missing protection money, not back. Name-dropping Jabba just tips off Akkik that Torbek is alive and out of his cell.
 
 ### Option B: The Distraction
 Create chaos elsewhere. Draw the guards out.
@@ -530,7 +530,7 @@ Tall humanoid. Diabolical face, razor-sharp teeth, two large horns. Slurred spee
 
 ### [Akkik](https://starwars.fandom.com/wiki/Akkik) — [Jawa](https://starwars.fandom.com/wiki/Jawa/Legends) Enforcer *([Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends)'s agent)*
 
-Short, smelly, hidden completely under a heavy hooded cloak. Covetous, nasty, tricky. Constant chatter nobody else understands. Currently in [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends) collecting [Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends)'s protection money. **Relevant to new [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) PC** — Akkik reported him to Jabba and got him fired. Will cause problems if encountered.
+Short, smelly, hidden completely under a heavy hooded cloak. Covetous, nasty, tricky. Constant chatter nobody else understands. Currently in [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends) collecting [Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends)'s protection money. **Relevant to Torbek** — Jabba's eyes in Mos Eisley. If Akkik spots Torbek loose, Jabba knows within the hour that his missing collector is still alive. Will cause problems if encountered.
 
 | Attribute | Value | Skills |
 |---|---|---|
@@ -548,7 +548,7 @@ Short, smelly, hidden completely under a heavy hooded cloak. Covetous, nasty, tr
 
 ### [Gorrt](https://starwars.fandom.com/wiki/Gorrt) — [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) Muscle *([Akkik](https://starwars.fandom.com/wiki/Akkik)'s backup)*
 
-Green-skinned, pig-like snout, small horns and tusks. Works with [Akkik](https://starwars.fandom.com/wiki/Akkik) collecting for [Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends). Currently in the [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends) medical bay — the new [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) PC put him through a table.
+Green-skinned, pig-like snout, small horns and tusks. Works with [Akkik](https://starwars.fandom.com/wiki/Akkik) collecting for [Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends). Currently in the [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends) medical bay, caught in the crossfire during the cantina ambush.
 
 | Attribute | Value | Skills |
 |---|---|---|

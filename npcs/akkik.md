@@ -11,9 +11,9 @@ Short, smelly, hidden completely under a heavy hooded cloak. Constantly chatteri
 
 ## Background
 
-[Jabba the Hutt's](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends) agent in [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends). He and [Gorrt](gorrt.md) collect protection money from local businesses and report back on anything interesting happening in the city. During the cantina chaos, he reported the new [Gamorrean PC](../pcs/gamorrean.md) to Jabba as having gone rogue — getting him fired on the spot.
+[Jabba the Hutt's](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends) agent in [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends). He and [Gorrt](gorrt.md) collect protection money from local businesses and report back on anything interesting happening in the city.
 
-**Relevant to new Gamorrean PC:** Akkik is the reason the PC has no job, no protection, and no friends on this planet. He will be a problem again in Episode 8 when the party runs back through Mos Eisley.
+**Relevant to [Torbek](../pcs/torbek.md):** Akkik is Jabba's eyes in Mos Eisley. If he spots Torbek loose, word gets back to Jabba within the hour, and Jabba wants Torbek dead over the protection money that went missing on his last route. Akkik will be a problem again in Episode 8 when the party runs back through Mos Eisley.
 
 ## Stats
 

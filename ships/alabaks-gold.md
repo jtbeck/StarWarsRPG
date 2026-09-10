@@ -41,7 +41,7 @@ The party's ship. A converted [Mon Calamari](https://starwars.fandom.com/wiki/Mo
 | Co-pilot / Captain | [Captain Bora](../pcs/captain-bora.md) |
 | Engineer | [Gune](../pcs/gune.md) |
 | Gunner | [Eck](../pcs/eck.md) |
-| Gunner | [Gamorrean PC](../pcs/gamorrean.md) |
+| Gunner | [Torbek](../pcs/torbek.md) |
 
 ## Episode 8 Note
 

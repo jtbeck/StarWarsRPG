@@ -27,13 +27,13 @@ The crew used to run jobs for **Torel Vorne**, a ruthless crimelord in the Outer
 
 On the run and hunted, the crew crossed paths with **Henry** — an adolescent Wookiee being transported to the spice mines of Kessel as a slave. **Gune** rescued him. Henry has been part of the crew ever since.
 
-Eventually, the crew fell in with **General Kraken's** rebel cell — not out of ideology, but out of necessity. Kraken gave them purpose. Or at least, a better class of trouble.
+Eventually, the crew fell in with **General Cracken's** rebel cell — not out of ideology, but out of necessity. Cracken gave them purpose. Or at least, a better class of trouble.
 
 ---
 
 ## The Mission
 
-**General Kraken** — Bora's former commanding officer during the Clone Wars — called in a personal favor. His cell has learned that **Graff Raster** — a former Jedi, removed from the Order before the Clone Wars — is alive and hiding on Tatooine. Because he wasn't officially a Jedi when Order 66 came down, the Empire's purge passed him by. Until now. Kraken chose Bora for this mission for a reason: Graff Raster is Bora and Indie's **estranged uncle**.
+**General Cracken** — Bora's former commanding officer during the Clone Wars — called in a personal favor. His cell has learned that **Graff Raster** — a former Jedi, removed from the Order before the Clone Wars — is alive and hiding on Tatooine. Because he wasn't officially a Jedi when Order 66 came down, the Empire's purge passed him by. Until now. Cracken chose Bora for this mission for a reason: Graff Raster is Bora and Indie's **estranged uncle**.
 
 The Empire knows too. **Captain Parlan** of the Star Destroyer *Relentless* has hired a **bounty hunter in Mandalorian armor** — deadly, ruthless, and already one step ahead — to find Raster and bring him in.
 
@@ -45,7 +45,7 @@ The crew must find Graff Raster first and get him off-world before the Empire cl
 
 ### Episode 1 — Kwenn Space Station *(Day 1)*
 
-The crew answered a distress call from **Dana**, one of Kraken's operatives aboard Kwenn Space Station — an Imperial-run facility. Since Imperials controlled the station, **Bora and Indie** were sent in first. Humans draw less suspicion.
+The crew answered a distress call from **Dana**, one of Cracken's operatives aboard Kwenn Space Station — an Imperial-run facility. Since Imperials controlled the station, **Bora and Indie** were sent in first. Humans draw less suspicion.
 
 They arrived too late — Dana was dead, killed by bounty hunters using **Sennari poison darts**. A firefight erupted with **Lt. Voor** and a squad of hunters. In the chaos, a figure in **Mandalorian armor** appeared briefly — commanding, lethal — before vanishing. Bora and Indie were overwhelmed and defeated.
 
@@ -136,7 +136,7 @@ It is **late on Day 2**. The twin suns have set over Mos Eisley.
 ### Allies
 | NPC | Description |
 |---|---|
-| **General Kraken** | Rebel cell leader. Bora's former CO during the Clone Wars. Sent the crew on this mission. |
+| **General Cracken** | Rebel cell leader. Bora's former CO during the Clone Wars. Sent the crew on this mission. |
 | **Old Arno** | Desert scout. Knows the Wastes. Waiting to guide the crew at dawn. |
 
 ### Enemies

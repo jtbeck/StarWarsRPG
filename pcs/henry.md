@@ -44,7 +44,7 @@ When Henry witnesses cruelty toward the helpless or is badly hurt, the GM may tr
 
 ## Cell Bond
 
-Henry spent the night in jail with the new [Gamorrean PC](gamorrean.md). Neither attacked the other. By arrival of the PCs, they've been quietly working the cell bars together for hours. The Gamorrean's honor code, Henry's trust — an unlikely alliance formed in a stone cell.
+Henry spent the night in jail with [Torbek](torbek.md). Neither attacked the other. By arrival of the PCs, they've been quietly working the cell bars together for hours. The Gamorrean's honor code, Henry's trust — an unlikely alliance formed in a stone cell.
 
 ---
 

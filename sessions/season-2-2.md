@@ -1,5 +1,5 @@
-# Episode 5 — Exploring the Wastes
-### Day 3
+# Exploring the Wastes
+### Season 2, Episode 2 (Module Episode 5) — Day 3
 
 ← [Back to Campaign](../README.md) | ← [Previous: The Jailbreak](jailbreak.md)
 

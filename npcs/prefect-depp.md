@@ -11,7 +11,7 @@ The only true [Imperial](https://starwars.fandom.com/wiki/Galactic_Empire/Legend
 
 ## Role in the Jailbreak
 
-Depp holds the only key to the jail cells. He is not present at the jail overnight — he lives two streets east of the Regional Government Office. He must be visited, bribed, or manipulated into releasing Henry and the Gamorrean PC.
+Depp holds the only key to the jail cells. He is not present at the jail overnight — he lives two streets east of the Regional Government Office. He must be visited, bribed, or manipulated into releasing Henry and Torbek.
 
 **Bribery threshold:** 500 credits cash, or a convincing authority figure invoking [Jabba the Hutt's](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends) name or Imperial credentials.
 

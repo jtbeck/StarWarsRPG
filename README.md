@@ -23,7 +23,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 - **Adar Tallon → Graff Raster** — renamed and reimagined as a fallen Jedi
 - **Captain Bora & Indie are siblings** — Graff Raster is their estranged uncle *(unrevealed to players)*
 - **Henry** — adolescent Wookiee, Gune's ward, recently arrested
-- **New Gamorrean PC** — former Jabba guard, introduced in the Jailbreak episode
+- **Torbek** — former Jabba collector, marked for death over missing protection money, introduced in the Jailbreak episode
 
 ---
 
@@ -35,7 +35,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 | ![Indie](images/Indie.png) | **[Indie](pcs/indie.md)** | [Human](https://starwars.fandom.com/wiki/Human/Legends) | Pilot & navigator. Bora's sister. Graff Raster's niece. |
 | ![Eck](images/Eck.png) | **[Eck](pcs/eck.md)** | Blue-skinned alien | Combat specialist |
 | ![Gune](images/Gune.png) | **[Gune](pcs/gune.md)** | Small alien | Mechanic & tech specialist. Henry's guardian. |
-| *(portrait pending)* | **[Gamorrean PC](pcs/gamorrean.md)** | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) | Former Jabba guard |
+| *(portrait pending)* | **[Torbek](pcs/torbek.md)** | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) | Former Jabba collector, marked for death |
 | ![Henry](images/Henry.png) | **[Henry](pcs/henry.md)** | [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends) | Adolescent ward of Gune |
 
 ---
@@ -45,7 +45,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 | Session | Title | Day | Status |
 |---|---|---|---|
 | [The Jailbreak](sessions/jailbreak.md) | Break Henry out of Mos Eisley jail | Night, Day 2 | **← NEXT** |
-| [Season 2 Episode 1 — Exploring the Wastes](sessions/season-2-1.md) | Into the desert with Old Arno | Day 3 | Upcoming |
+| [Season 2 Episode 2 — Exploring the Wastes](sessions/season-2-2.md) | Into the desert with Old Arno | Day 3 | Upcoming |
 
 ---
 
@@ -74,7 +74,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 ### Jabba's People
 | NPC | Role |
 |---|---|
-| [Akkik](npcs/akkik.md) | Jawa enforcer — got the Gamorrean PC fired |
+| [Akkik](npcs/akkik.md) | Jawa enforcer — Jabba's eyes in Mos Eisley |
 | [Gorrt](npcs/gorrt.md) | Gamorrean muscle, currently in the medical bay |
 | [Prefect Orun Depp](npcs/prefect-depp.md) | Imperial prefect of Mos Eisley, sole jail keyholder |
 
