@@ -55,7 +55,6 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 | NPC | Role |
 |---|---|
 | [Graff Raster](npcs/graff-raster.md) | The fallen Jedi — the mission objective |
-| [Kay Raster](npcs/kay-raster.md) | Graff's wife |
 | [Vytor Shrike](npcs/vytor-shrike.md) | Graff's first officer, insectoid merc |
 | [Jungen](npcs/jungen.md) | Graff's outlaw bodyguard, reptilian bruiser |
 | [Old Arno](npcs/old-arno.md) | Desert scout, last of the oldsters |

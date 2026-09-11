@@ -12,13 +12,13 @@
 
 ## Description
 
-A commanding old man in a plain black tunic and pants. When the PCs first see him, he is seated at a massive pipe organ in his music room at [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort), sipping from a long glass. Stern-faced, perceptive, unhurried. The room around him is an exotic musical museum — instruments from across the galaxy.
+An aging man gone to seed — wild, unkempt gray hair, a scraggly beard, wrapped in a threadbare old robe over a faded shirt, like he hasn't seen a mirror in years. When the PCs first see him, he is seated at a massive pipe organ in his music room at [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort), sipping from a long glass. Shambling and unhurried on the surface, but his eyes are sharp, stern, missing nothing — the old authority is still there underneath, and it surfaces the moment he speaks. The room around him is an exotic musical museum — instruments from across the galaxy, the one orderly thing about him.
 
 He raises his glass and says simply: *"And now the hiding ends."*
 
 ## Background
 
-A [Jedi](https://starwars.fandom.com/wiki/Jedi/Legends) who survived the fall of the Republic by staging his own death. He went into exile on [Tatooine](https://starwars.fandom.com/wiki/Tatooine/Legends), fell in love, built a life. For years the concerns of the Empire felt distant. Then [stormtroopers](https://starwars.fandom.com/wiki/Stormtrooper/Legends) came crawling across the desert, and he realized no place in the galaxy is truly beyond Palpatine's reach. He called his old crew — [Shrike](vytor-shrike.md) and [Jungen](jungen.md) — and began to prepare.
+A [Jedi](https://starwars.fandom.com/wiki/Jedi/Legends) who survived the fall of the Republic by staging his own death. He went into exile on [Tatooine](https://starwars.fandom.com/wiki/Tatooine/Legends) and built a life. For years the concerns of the Empire felt distant. Then [stormtroopers](https://starwars.fandom.com/wiki/Stormtrooper/Legends) came crawling across the desert, and he realized no place in the galaxy is truly beyond Palpatine's reach. He called his old crew — [Shrike](vytor-shrike.md) and [Jungen](jungen.md) — and began to prepare.
 
 He did not count on betrayal from within. [Quist](quist.md) — an old friend — sold his location to the Empire.
 
@@ -26,7 +26,6 @@ He did not count on betrayal from within. [Quist](quist.md) — an old friend �
 
 | | |
 |---|---|
-| **[Kay Raster](kay-raster.md)** | Wife. Has built their life here with him. |
 | **[Vytor Shrike](vytor-shrike.md)** | First officer. Unquestioningly loyal. |
 | **[Jungen](jungen.md)** | Outlaw bodyguard. Pledged protection decades ago. |
 | **[Quist](quist.md)** | ⚠ Trusted pirate friend — secretly a traitor |

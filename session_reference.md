@@ -355,7 +355,7 @@ The last surviving oldster from the original colony ship. Grizzled, sun-baked, d
 
 > **⚠ GM NOTE:** Captain Bora and Indie do not yet know this man is their uncle. Reserve the reveal for their first face-to-face at [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort). Play the moment.
 
-A commanding old man in a plain black tunic and pants, sipping from a long glass when the PCs first see him, sitting at a pipe organ in his music room. Stern-faced but perceptive. Has lived in voluntary exile, fell in love, built a home. The arrival of [stormtroopers](https://starwars.fandom.com/wiki/Stormtrooper/Legends) crawling the desert reminded him that nowhere in the galaxy is truly safe.
+An aging man gone to seed — wild, unkempt gray hair, a scraggly beard, wrapped in a threadbare old robe, sipping from a long glass when the PCs first see him, sitting at a pipe organ in his music room. Shambling and unhurried on the surface, but sharp and stern underneath. Has lived in voluntary exile, built a home. The arrival of [stormtroopers](https://starwars.fandom.com/wiki/Stormtrooper/Legends) crawling the desert reminded him that nowhere in the galaxy is truly safe.
 
 | Attribute | Value | Skills |
 |---|---|---|
@@ -369,21 +369,6 @@ A commanding old man in a plain black tunic and pants, sipping from a long glass
 **Force:** Fallen [Jedi](https://starwars.fandom.com/wiki/Jedi/Legends) — Force sensitivity at GM's discretion. Not currently using the Force openly. The weapon is there but he has chosen not to pick it up. Yet.
 
 *"Imperials have become more persistent and ingenious since last I dealt with Palpatine's agents. I am Graff Raster. And now the hiding ends."*
-
----
-
-### Kay Raster — Graff's Wife *(module: Kay Tallon)*
-
-Graff's wife. Elegant, composed. Her touch is visible throughout the fort — the garden, the furnishings. She stands by her husband's side when the PCs arrive.
-
-| Attribute | Value | Skills |
-|---|---|---|
-| DEX | 2D+2 | — |
-| KNO | 2D | Bureaucracy 2D+2 |
-| MEC | 1D+1 | Beast Riding 2D+1 |
-| PER | 2D+2 | — |
-| STR | 2D | — |
-| TEC | 1D+1 | — |
 
 ---
 
