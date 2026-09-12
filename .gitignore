@@ -1,0 +1,12 @@
+*.mp4
+*.webm
+*.pdf
+.obsidian/
+
+# Local video/PDF generation tooling
+node_modules/
+package.json
+package-lock.json
+generate-crawl.sh
+generate-pdf.js
+StarWarsIntroCreator/
