@@ -22,13 +22,13 @@ Find and protect **Graff Raster** — fallen Jedi, estranged uncle of Captain Bo
 
 ## The Party
 
-| Character | Player | Species | Role |
-|---|---|---|---|
-| **Captain Bora** | — | [Human](https://starwars.fandom.com/wiki/Human/Legends) | Roguish captain, leader. Indie's brother. Graff Raster's nephew. |
-| **Indie** | — | [Human](https://starwars.fandom.com/wiki/Human/Legends) | Pilot/navigator. Bora's sister. Graff Raster's niece. |
-| **Eck** | — | Blue-skinned alien | Combat specialist |
-| **Gune** | — | Small alien | Mechanic/tech specialist. Henry's guardian. |
-| **Torbek** | Trevor | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) | Former Jabba collector. Missing protection money. Jabba wants him dead. Met Henry in the jail cell. |
+| Character        | Player | Species                                                         | Role                                                                                                |
+| ---------------- | ------ | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Captain Bora** | —      | [Human](https://starwars.fandom.com/wiki/Human/Legends)         | Roguish captain, leader. Indie's brother. Graff Raster's nephew.                                    |
+| **Indie**        | —      | [Human](https://starwars.fandom.com/wiki/Human/Legends)         | Pilot/navigator. Bora's sister. Graff Raster's niece.                                               |
+| **Eck**          | —      | [Ardennian](https://starwars.fandom.com/wiki/Ardennian)         | Combat specialist                                                                                   |
+| **Gune**         | —      | [Chadra-Fan](https://starwars.fandom.com/wiki/Chadra-Fan/Legends) | Mechanic/tech specialist. Henry's guardian.                                                         |
+| **Torbek**       | Trevor | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) | Former Jabba collector. Missing protection money. Jabba wants him dead. Met Henry in the jail cell. |
 
 ### Henry
 Adolescent [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends). Rescued from slavery by Gune. Travels with the group.
