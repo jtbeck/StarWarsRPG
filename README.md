@@ -33,8 +33,8 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 |---|---|---|---|
 | ![Captain Bora](images/Captain-Bora.png) | **[Captain Bora](pcs/captain-bora.md)** | [Human](https://starwars.fandom.com/wiki/Human/Legends) | Roguish captain & leader. Indie's brother. Graff Raster's nephew. |
 | ![Indie](images/Indie.png) | **[Indie](pcs/indie.md)** | [Human](https://starwars.fandom.com/wiki/Human/Legends) | Pilot & navigator. Bora's sister. Graff Raster's niece. |
-| ![Eck](images/Eck.png) | **[Eck](pcs/eck.md)** | Blue-skinned alien | Combat specialist |
-| ![Gune](images/Gune.png) | **[Gune](pcs/gune.md)** | Small alien | Mechanic & tech specialist. Henry's guardian. |
+| ![Eck](images/Eck.png) | **[Eck](pcs/eck.md)** | [Ardennian](https://starwars.fandom.com/wiki/Ardennian) | Combat specialist |
+| ![Gune](images/Gune.png) | **[Gune](pcs/gune.md)** | [Chadra-Fan](https://starwars.fandom.com/wiki/Chadra-Fan/Legends) | Mechanic & tech specialist. Henry's guardian. |
 | *(portrait pending)* | **[Torbek](pcs/torbek.md)** | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) | Former Jabba collector, marked for death |
 | ![Henry](images/Henry.png) | **[Henry](pcs/henry.md)** | [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends) | Adolescent ward of Gune |
 
