@@ -25,7 +25,7 @@ Most bounty hunters left for the Wastes before First Dawn following [Jodo Kast](
 >
 > *"The crews have worked through the night. All systems repaired. We reach Tatooine by tomorrow evening."*
 >
-> *Parlan's eyes sparkle. "Then Tallon's mine. Order immediate departure."*
+> *Parlan's eyes sparkle. "Then Raster's mine. Order immediate departure."*
 >
 > *Fade to... EXTERIOR: THE TATOOINE DESERT.*
 

@@ -7,7 +7,7 @@
 
 ## Overview
 
-Four modified [Z-95 Headhunters](https://starwars.fandom.com/wiki/Z-95_Headhunter/Legends) housed in the hangar at [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort). Forerunners to the X-wing starfighter. [Graff Raster](../npcs/graff-raster.md) has upgraded his with hyperdrive systems — they can complete one pre-programmed jump without an R2 unit. An Easy *technology* roll identifies them; an Easy *Technical* roll confirms they are in working order.
+Four modified [Z-95 Headhunters](https://starwars.fandom.com/wiki/Z-95_Headhunter/Legends) housed in the hangar at [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort). Forerunners to the X-wing starfighter. [Graff Raster](../pcs/graff-raster.md) has upgraded his with hyperdrive systems — they can complete one pre-programmed jump without an R2 unit. An Easy *technology* roll identifies them; an Easy *Technical* roll confirms they are in working order.
 
 ## Stats
 

@@ -11,7 +11,7 @@ Short, stocky insectoid alien in battle armor worn under a heavy cloak. A form-f
 
 ## Background
 
-[Graff Raster's](graff-raster.md) first officer from his days in service. He was present at the Dalchon incident — stayed loyal through everything that followed. When it appeared the Empire would have his commander killed, he stayed as a merc. When Raster called, Shrike came.
+[Graff Raster's](../pcs/graff-raster.md) first officer from his days in service. He was present at the Dalchon incident — stayed loyal through everything that followed. When it appeared the Empire would have his commander killed, he stayed as a merc. When Raster called, Shrike came.
 
 He is loyal to Raster's ideals as much as to the man himself. He'll fight hard, but he'd prefer a world that doesn't require it.
 

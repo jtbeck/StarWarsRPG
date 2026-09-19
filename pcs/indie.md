@@ -11,10 +11,11 @@
 
 | | |
 |---|---|
+| **Full Name** | Indie Hue |
 | **Species** | [Human](https://starwars.fandom.com/wiki/Human/Legends) |
 | **Role** | Pilot, navigator, *Centennial Duck* primary helm |
 | **Sibling** | [Captain Bora](captain-bora.md) |
-| **Unknown to player** | [Graff Raster](../npcs/graff-raster.md) is her estranged uncle |
+| **Unknown to player** | [Graff Raster](graff-raster.md) is her estranged uncle — her mother's brother, which is why the surnames don't match |
 
 ## Description
 
@@ -26,7 +27,7 @@ Reddish-brown hair, light jacket and flight suit. Carries a flight helmet. Looks
 |---|---|
 | **[Captain Bora](captain-bora.md)** | Brother. They've been flying together long enough that they don't need to finish sentences. |
 | **[Gune](gune.md)** | She trusts him to keep the *Gold* flying. He trusts her not to break it. |
-| **[Graff Raster](../npcs/graff-raster.md)** | *(Unknown)* Her estranged uncle — the man they are trying to find |
+| **[Graff Raster](graff-raster.md)** | *(Unknown)* Her estranged uncle — the man they are trying to find |
 
 ## Character Notes
 

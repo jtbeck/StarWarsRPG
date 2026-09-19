@@ -178,7 +178,7 @@ Read aloud to the players:
 
 > *INTERIOR: IMPERIAL STAR DESTROYER — BRIDGE. Captain Parlan stands at the command platform, watching the space station through bridge viewpoints. A lower officer snaps to attention.*
 > *"The crews have worked through the night. All systems repaired. Astrogation has calculated a hyperspatial route — we reach [Tatooine](https://starwars.fandom.com/wiki/Tatooine/Legends) by tomorrow evening."*
-> *Parlan's eyes sparkle and his lip turns up in an evil smile. "Then Tallon's mine. Order immediate departure."*
+> *Parlan's eyes sparkle and his lip turns up in an evil smile. "Then Raster's mine. Order immediate departure."*
 > *Fade to... EXTERIOR: THE TATOOINE DESERT.*
 
 ---

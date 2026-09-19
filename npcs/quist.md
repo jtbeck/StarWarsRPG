@@ -6,7 +6,7 @@
 ---
 
 > ## ⚠ GM NOTE — DO NOT REVEAL
-> Quist appears to be a loyal member of [Graff Raster's](graff-raster.md) crew. **He is not.** He sold Raster's location to the Empire in exchange for his own life. He is currently at [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort) playing the loyal merc, waiting for the *Relentless* to arrive. Play him as trustworthy until the betrayal scene in Episode 7.
+> Quist appears to be a loyal member of [Graff Raster's](../pcs/graff-raster.md) crew. **He is not.** He sold Raster's location to the Empire in exchange for his own life. He is currently at [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort) playing the loyal merc, waiting for the *Relentless* to arrive. Play him as trustworthy until the betrayal scene in Episode 7.
 
 ---
 
@@ -16,7 +16,7 @@ Fair-skinned human, blonde hair streaked with white. His right hand has been rep
 
 ## Background
 
-An old friend of Graff Raster's from before the fall of the Republic. They served together, and when Raster needed to stage his death, Quist helped arrange it. They stayed in loose contact over the years. When Quist's ship was captured by the *Relentless*, he bargained for his life with the only currency he had — the truth about Raster. Captain Parlan required one more task before granting his freedom: go to Tatooine, embed himself in Raster's camp, and hold Raster there until the Star Destroyer arrives.
+An old partner of Graff Raster's from his privateer days during the Clone Wars — they ran the same crew, preying on Separatist and Banking Clan shipping across the Rim. They stayed in loose contact over the years since. When Quist's ship was captured by the *Relentless*, he bargained for his life with the only currency he had — the truth about Raster's whereabouts. Captain Parlan required one more task before granting his freedom: go to Tatooine, embed himself in Raster's camp, and hold Raster there until the Star Destroyer arrives.
 
 ## Stats
 

@@ -17,11 +17,12 @@
 | **Hard Deadline** | Star Destroyer *Relentless* arrives end of Day 4 |
 
 ### The Mission
-Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estranged uncle of Captain Bora and Indie — before [Jodo Kast](npcs/jodo-kast.md) captures him for the Empire. The Star Destroyer *[Relentless](https://starwars.fandom.com/wiki/Relentless)* is inbound. Time is running out.
+Find and protect **[Graff Raster](pcs/graff-raster.md)** — fallen Jedi, estranged uncle of Captain Bora and Indie — before [Jodo Kast](npcs/jodo-kast.md) captures him for the Empire. The Star Destroyer *[Relentless](https://starwars.fandom.com/wiki/Relentless)* is inbound. Time is running out.
 
 ### Key Campaign Modifications
 - **Adar Tallon → Graff Raster** — renamed and reimagined as a fallen Jedi
-- **Captain Bora & Indie are siblings** — Graff Raster is their estranged uncle *(unrevealed to players)*
+- **Captain Bora & Indie are siblings** — Graff Raster is their estranged uncle *(unrevealed to their characters)*
+- **Graff Raster is now a player character** — formerly run as an NPC/mission objective
 - **Henry** — adolescent Wookiee, Gune's ward, recently arrested
 - **Torbek** — former Jabba collector, marked for death over missing protection money, introduced in the Jailbreak episode
 
@@ -37,6 +38,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 | ![Gune](images/Gune.png)                 | **[Gune](pcs/gune.md)**                 | [Chadra-Fan](https://starwars.fandom.com/wiki/Chadra-Fan/Legends) | Mechanic & tech specialist. Henry's guardian.                     |
 | *(portrait pending)*                     | **[Torbek](pcs/torbek.md)**             | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends)   | Former Jabba collector, marked for death                          |
 | ![Henry](images/Henry.png)               | **[Henry](pcs/henry.md)**               | [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends)       | Adolescent ward of Gune                                           |
+| *(portrait pending)*                     | **[Graff Raster](pcs/graff-raster.md)** | [Human](https://starwars.fandom.com/wiki/Human/Legends)           | Fallen Jedi Knight, ex-Separatist privateer. Bora & Indie's uncle *(unrevealed in-fiction)*. |
 
 ---
 
@@ -54,7 +56,6 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 ### Allied NPCs
 | NPC | Role |
 |---|---|
-| [Graff Raster](npcs/graff-raster.md) | The fallen Jedi — the mission objective |
 | [Vytor Shrike](npcs/vytor-shrike.md) | Graff's first officer, insectoid merc |
 | [Jungen](npcs/jungen.md) | Graff's outlaw bodyguard, reptilian bruiser |
 | [Old Arno](npcs/old-arno.md) | Desert scout, last of the oldsters |
@@ -84,7 +85,7 @@ Find and protect **[Graff Raster](npcs/graff-raster.md)** — fallen Jedi, estra
 | Ship | Owner | Role |
 |---|---|---|
 | [*Centennial Duck*](ships/centennial-duck.md) | The Party | Corellian VTX-100 freighter, party ship |
-| [Z-95 Headhunters](ships/z-95-headhunters.md) | Graff Raster | Modified fighters at Tusken Fort |
+| [Z-95 Headhunters](ships/z-95-headhunters.md) | [Graff Raster](pcs/graff-raster.md) | Modified fighters at Tusken Fort |
 | [TIE Interceptors](ships/tie-interceptors.md) | Galactic Empire | Final space battle, Episode 8 |
 
 ---
