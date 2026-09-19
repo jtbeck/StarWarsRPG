@@ -87,6 +87,7 @@ Find and protect **[Graff Raster](pcs/graff-raster.md)** — fallen Jedi, estran
 | [*Centennial Duck*](ships/centennial-duck.md) | The Party | Corellian VTX-100 freighter, party ship |
 | [Z-95 Headhunters](ships/z-95-headhunters.md) | [Graff Raster](pcs/graff-raster.md) | Modified fighters at Tusken Fort |
 | [TIE Interceptors](ships/tie-interceptors.md) | Galactic Empire | Final space battle, Episode 8 |
+| [TIE Fighters](ships/tie-fighters.md) | Galactic Empire | Standard Imperial patrol/escort craft |
 
 ---
 

@@ -673,6 +673,20 @@ Weathered human smuggler. Arrested for being in the wrong place during the canti
 
 ---
 
+### [TIE Fighters](https://starwars.fandom.com/wiki/TIE/LN_starfighter/Legends) *(standard Imperial patrol/escort craft)*
+
+| Spec | Value |
+|---|---|
+| Sublight Speed | 4D+2 |
+| Maneuverability | 2D+2 |
+| Hull | 2D+2 |
+| Shields | None |
+| Weapons | 2× laser cannons (fire-linked): Fire Control 2D, Combined Damage 4D |
+
+**Starship Piloting:** 4D, Starship Gunnery 3D. No hyperdrive — always carrier-launched, can't pursue into hyperspace.
+
+---
+
 ### [Z-95 Headhunters](https://starwars.fandom.com/wiki/Z-95_Headhunter/Legends) *(Graff Raster's modified fighters)*
 
 Forerunners to the X-wing. Raster has upgraded his with hyperdrives — they can complete one pre-programmed jump without an R2 unit.
