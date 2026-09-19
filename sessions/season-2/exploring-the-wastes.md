@@ -1,20 +1,20 @@
 # Exploring the Wastes
 ### Season 2, Episode 2 (Module Episode 5) — Day 3
 
-← [Back to Campaign](../README.md) | ← [Previous: The Jailbreak](jailbreak.md)
+← [Back to Campaign](../../README.md) | ← [Previous: The Jailbreak](jailbreak.md)
 
 ---
 
 ## Summary
 
-Most bounty hunters left for the Wastes before First Dawn following [Jodo Kast](../npcs/jodo-kast.md). [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends) is relieved. **Kast has a head start.** The *Relentless* arrives end of Day 4.
+Most bounty hunters left for the Wastes before First Dawn following [Jodo Kast](../../npcs/jodo-kast.md). [Mos Eisley](https://starwars.fandom.com/wiki/Mos_Eisley/Legends) is relieved. **Kast has a head start.** The *Relentless* arrives end of Day 4.
 
-[Old Arno](../npcs/old-arno.md) leads the party to three possible sites. Two are dead ends. One is not.
+[Old Arno](../../npcs/old-arno.md) leads the party to three possible sites. Two are dead ends. One is not.
 
 | Site | Result |
 |---|---|
 | Sedi Fisk's Desert Manor | Ruined, abandoned over a year ago |
-| Lank's Farm | Destroyed by [IG-72](../npcs/ig-72.md) |
+| Lank's Farm | Destroyed by [IG-72](../../npcs/ig-72.md) |
 | [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort) | **Graff Raster's actual location** *(Episode 6/7)* |
 
 ---
@@ -79,7 +79,7 @@ Five [Womp Rats](https://starwars.fandom.com/wiki/Womp_rat/Legends) attack.
 
 Attack quickly and in packs.
 
-> *[Old Arno](../npcs/old-arno.md): "Don't get excited, but there's a whole bunch of those Womp Rat critters all around us. I suggest we get out of here, but real slow like, if you take my meaning."*
+> *[Old Arno](../../npcs/old-arno.md): "Don't get excited, but there's a whole bunch of those Womp Rat critters all around us. I suggest we get out of here, but real slow like, if you take my meaning."*
 
 ---
 
@@ -91,7 +91,7 @@ A small desert settlement — humble dwellings, moisture farms, free-roaming [Ba
 
 > *It is after dark when the Rebels arrive. A priest greets them and directs them to the main hall. Along the way children play atop huge [Banthas](https://starwars.fandom.com/wiki/Bantha/Legends), farmers finish work, community members go about their evening.*
 
-**[High Priest Dryon](../npcs/dryon.md)** receives them. He does not know where Graff Raster is, but [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort) is the last name on Arno's list.
+**[High Priest Dryon](../../npcs/dryon.md)** receives them. He does not know where Graff Raster is, but [Tusken Fort](https://starwars.fandom.com/wiki/Tusken_Fort) is the last name on Arno's list.
 
 > *"Oasis doesn't ask for names or explanations. Like the humble [Bantha](https://starwars.fandom.com/wiki/Bantha/Legends), we simply greet newcomers and offer what aid we can."*
 
@@ -99,20 +99,20 @@ A small desert settlement — humble dwellings, moisture farms, free-roaming [Ba
 
 > *Your peaceful evening ends abruptly as a window shatters and a smoke grenade crashes against the far wall. Dark smoke fills the hall. As citizens flee into the night, blaster fire cuts them down.*
 >
-> *"You will tell us what [Jodo Kast](../npcs/jodo-kast.md) wants to know, Dryon — or we will raze Oasis so that not even a speck of sand remains!"*
+> *"You will tell us what [Jodo Kast](../../npcs/jodo-kast.md) wants to know, Dryon — or we will raze Oasis so that not even a speck of sand remains!"*
 
-[Zardra](../npcs/zardra.md) leads five seasoned hunters. She doesn't know the PCs are here. Once she realizes she's facing real opposition she switches to *"win or die"* mode. Hunters fight to the death.
+[Zardra](../../npcs/zardra.md) leads five seasoned hunters. She doesn't know the PCs are here. Once she realizes she's facing real opposition she switches to *"win or die"* mode. Hunters fight to the death.
 
 **After:** Dryon offers food, water, and two medpacs. *"May you always travel in the shadow of the [Bantha](https://starwars.fandom.com/wiki/Bantha/Legends)."*
 
-### [Zardra](../npcs/zardra.md)
+### [Zardra](../../npcs/zardra.md)
 
 | DEX | KNO | MEC | PER | STR | TEC |
 |---|---|---|---|---|---|
 | 4D | 2D+2 | 2D+2 | 3D | 3D+2 | 2D |
 
 [Force pike](https://starwars.fandom.com/wiki/Force_pike/Legends) 6D (dam. 5D+2), blaster 5D (dam. 4D), [thermal detonator](https://starwars.fandom.com/wiki/Thermal_detonator/Legends), stun cloak (stun dam. 5D).
-See full stats: [Zardra](../npcs/zardra.md)
+See full stats: [Zardra](../../npcs/zardra.md)
 
 ### Seasoned Bounty Hunters ×5
 
@@ -133,4 +133,4 @@ Blaster 5D+1, dodge 5D. Blaster rifle (5D). Grenade each (5D). Medpac each.
 
 ---
 
-*← [Back to Campaign](../README.md)*
+*← [Back to Campaign](../../README.md)*

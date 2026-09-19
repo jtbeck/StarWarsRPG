@@ -13,7 +13,7 @@
 |---|---|
 | **Species** | [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends) (adolescent) |
 | **Role** | Party companion, Gune's ward |
-| **Current status** | ⚠ In Mos Eisley jail — [see Jailbreak session](../sessions/jailbreak.md) |
+| **Current status** | ⚠ In Mos Eisley jail — [see Jailbreak session](../sessions/season-2/jailbreak.md) |
 | **Guardian** | [Gune](gune.md) |
 
 ## Background

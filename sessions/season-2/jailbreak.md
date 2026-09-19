@@ -2,7 +2,7 @@
 # The Jailbreak — GM Prep
 ### Season 2, Episode 1 — Late Night, Day 2
 
-← [Back to Campaign](../README.md) | [Next: Exploring the Wastes →](exploring-the-wastes.md)
+← [Back to Campaign](../../README.md) | [Next: Exploring the Wastes →](exploring-the-wastes.md)
 
 ---
 

@@ -12,7 +12,7 @@
 | **Species** | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) |
 | **Role** | New party member, former protection-money collector |
 | **Former employer** | [Jabba the Hutt](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends) |
-| **Current status** | In Mos Eisley jail, Cell 2 — and for once, that's the safest place he's ever been. [See Jailbreak session](../sessions/jailbreak.md) |
+| **Current status** | In Mos Eisley jail, Cell 2 — and for once, that's the safest place he's ever been. [See Jailbreak session](../sessions/season-2/jailbreak.md) |
 
 ## How He Got Here
 

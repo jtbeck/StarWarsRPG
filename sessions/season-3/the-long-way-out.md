@@ -2,7 +2,7 @@
 # The Long Way Out — GM Prep
 ### Season 3, Episode 1 — Minos Cluster · Transit + Arrival
 
-← [Back to Campaign](../README.md)
+← [Back to Campaign](../../README.md)
 
 ---
 
@@ -14,7 +14,7 @@
 
 **What the players know:**
 - They escaped Tatooine, but barely — the *Duck*'s transponder and their faces are now known to the Empire
-- [Vytor Shrike](../npcs/vytor-shrike.md) has a lead: the Minos Cluster, about five days out, where nobody will recognize them and "no questions asked" freight work pays well
+- [Vytor Shrike](../../npcs/vytor-shrike.md) has a lead: the Minos Cluster, about five days out, where nobody will recognize them and "no questions asked" freight work pays well
 - The ship took real damage in the escape — repairs aren't optional
 
 **What the players don't know:**
@@ -44,7 +44,7 @@ Travnin is a windswept moon orbiting a gas giant, the Cluster's Imperial sector 
 
 > *The moon's the color of an old bruise, lit sideways by the gas giant it orbits. A customs corvette hails you before you've even found the beacon. "Unidentified freighter, cut engines and prepare to be boarded. This is Customs Officer Babel Torsch."*
 
-**[Babel Torsch](../npcs/babel-torsch.md)** personally boards the *Duck* — he does this for every new arrival, no exceptions. He is meticulous, humorless, and cannot be bribed. He does not — yet — know who they are. He *will* notice anything that doesn't add up: a mismatched cargo manifest, an unregistered weapon, a lightsaber-shaped bulge under a robe.
+**[Babel Torsch](../../npcs/babel-torsch.md)** personally boards the *Duck* — he does this for every new arrival, no exceptions. He is meticulous, humorless, and cannot be bribed. He does not — yet — know who they are. He *will* notice anything that doesn't add up: a mismatched cargo manifest, an unregistered weapon, a lightsaber-shaped bulge under a robe.
 
 ### Possible Approaches
 
@@ -65,7 +65,7 @@ If Graff's lightsaber, weapons beyond declared limits, or anything Rebel-adjacen
 
 Repairs at Travnin aren't cheap, and the crew isn't flush. Two options — either or both:
 
-**[Yerkys ne Dago](../npcs/yerkys-ne-dago.md)** — the Cluster's biggest loan shark and crime boss. Fronts the credits for repairs at real interest. Gracious, even warm, in person — the threat is all implication. Fastest option, and the one that puts the crew in his debt for the rest of the season.
+**[Yerkys ne Dago](../../npcs/yerkys-ne-dago.md)** — the Cluster's biggest loan shark and crime boss. Fronts the credits for repairs at real interest. Gracious, even warm, in person — the threat is all implication. Fastest option, and the one that puts the crew in his debt for the rest of the season.
 
 **Porgo Goo** *(mentioned, not yet statted)* — a Chortose engineer running an off-the-books repair shop. Cheaper, faster, and he'll skip payment entirely for something "interesting" — an illegal mod, a favor, a good story. Good option if the GM wants to delay the Yerkys debt hook, or to run both: some repairs financed, some bartered.
 
@@ -92,4 +92,4 @@ Ship repaired (or repair scheduled), crew quietly in debt, and Travnin's rumor m
 
 ---
 
-*← [Back to Campaign](../README.md)*
+*← [Back to Campaign](../../README.md)*

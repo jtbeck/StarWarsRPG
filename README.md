@@ -46,8 +46,8 @@ Find and protect **[Graff Raster](pcs/graff-raster.md)** — fallen Jedi, estran
 
 | Session | Title | Day | Status |
 |---|---|---|---|
-| [The Jailbreak](sessions/jailbreak.md) | Break Henry out of Mos Eisley jail | Night, Day 2 | **← NEXT** |
-| [Season 2 Episode 2 — Exploring the Wastes](sessions/exploring-the-wastes.md) | Into the desert with Old Arno | Day 3 | Upcoming |
+| [The Jailbreak](sessions/season-2/jailbreak.md) | Break Henry out of Mos Eisley jail | Night, Day 2 | **← NEXT** |
+| [Season 2 Episode 2 — Exploring the Wastes](sessions/season-2/exploring-the-wastes.md) | Into the desert with Old Arno | Day 3 | Upcoming |
 
 ---
 
@@ -132,7 +132,7 @@ After the *Relentless* forces them out of the Tatooine system, the crew is batte
 ### Season Notes
 | Session | Title | Status |
 |---|---|---|
-| [Season 3, Episode 1 — The Long Way Out](sessions/the-long-way-out.md) | Transit to Travnin, customs, first contact with the Cluster | **← NEXT** |
+| [Season 3, Episode 1 — The Long Way Out](sessions/season-3/the-long-way-out.md) | Transit to Travnin, customs, first contact with the Cluster | **← NEXT** |
 
 ### New NPCs
 
