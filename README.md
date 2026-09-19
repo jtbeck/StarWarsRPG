@@ -103,4 +103,43 @@ Find and protect **[Graff Raster](pcs/graff-raster.md)** — fallen Jedi, estran
 
 ---
 
-*Based on WEG40005 Tatooine Manhunt (1988) · All lore links default to [Legends continuity](https://starwars.fandom.com/wiki/Main_Page)*
+## Season 3 — The Minos Cluster
+### Modified Campaign Edition · Based on WEG40095 *Galaxy Guide 6: Tramp Freighters*
+
+> *Broke, burned, and five days from anywhere anyone's heard of them — the crew runs cargo at the edge of the map while the Rebellion starts creeping back into their lives.*
+
+Picks up immediately after **Episode 8 — Escape from Tatooine**. Not yet started.
+
+### Season Overview
+
+| | |
+|---|---|
+| **System** | Star Wars RPG, West End Games (2nd Ed, D6) |
+| **Setting** | Minos Cluster (WEG40095, *Galaxy Guide 6: Tramp Freighters*, Ch. 9–13) |
+| **Status** | Not yet started — begins after Episode 8 |
+| **Location** | The Minos Cluster, ~5 days' hyperspace from the nearest inhabited system |
+
+### The Setup
+After the *Relentless* forces them out of the Tatooine system, the crew is battered, broke, and burned — their faces and the *Centennial Duck*'s transponder are now known to the Empire. **[Vytor Shrike](npcs/vytor-shrike.md)** knows a way out: the Minos Cluster, a backwater at the edge of charted space where the Empire barely bothers to patrol and "no questions asked" freight work pays well precisely because nobody out there is asking questions. First stop: **Travnin**, the Cluster's sector capital — a place to disappear, get the *Duck* properly repaired, and start earning again.
+
+### Key Campaign Modifications
+- **Arrival is organic, not accidental.** The crew chooses to go — a lead from Shrike's privateer days, not an emergency jump or a handler's order.
+- **The tramp-freighter sandbox comes first.** Cargo runs, customs friction, and debt before any Rebel entanglement — an intentional change of pace from the tight Tatooine clock.
+- **Tatooine heat carries over.** [Jodo Kast](npcs/jodo-kast.md), Captain Parlan, and Imperial Security Bureau assets in the Cluster remain live threats and can resurface.
+- **The season escalates in phases**, adapted from the book's own structure: freighter sandbox → Rebel-linked cargo jobs → the rescue of imprisoned Rebel leader Drun Cairnwick → a cluster-wide revolt against the Star Destroyer *The Chariot*.
+
+### Season Notes
+| Session | Title | Status |
+|---|---|---|
+| [Season 3, Episode 1 — The Long Way Out](sessions/the-long-way-out.md) | Transit to Travnin, customs, first contact with the Cluster | **← NEXT** |
+
+### New NPCs
+
+| NPC | Role |
+|---|---|
+| [Babel Torsch](npcs/babel-torsch.md) | Incorruptible Imperial Customs officer, Travnin |
+| [Yerkys ne Dago](npcs/yerkys-ne-dago.md) | Twi'lek crime boss and loan shark running the Cluster's black market |
+
+---
+
+*Based on WEG40005 Tatooine Manhunt (1988) and WEG40095 Galaxy Guide 6: Tramp Freighters (1994) · All lore links default to [Legends continuity](https://starwars.fandom.com/wiki/Main_Page)*

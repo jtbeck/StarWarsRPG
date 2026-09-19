@@ -705,6 +705,314 @@ Forerunners to the X-wing. Raster has upgraded his with hyperdrives — they can
 
 ---
 
-*Reference document compiled from WEG40005 Tatooine Manhunt (1988) with campaign modifications.*
+---
+
+# TRAMP FREIGHTER ECONOMY — MINOS CLUSTER RULES
+### GM Reference · From WEG40095 *Galaxy Guide 6: Tramp Freighters*, Ch. 3–8 & 13
+
+> Condensed for quick lookup at the table. Full text/examples are in WEG40095 if more detail is ever needed.
+
+---
+
+## Drop-Point Delivery *(standard cargo-hauling jobs)*
+
+**Standard fee:** 5–10 credits per ton, per day. "Per day" = 1 day to load + hyperspace transit time (based on a ×2 hyperdrive) + 1 day to off-load in-system.
+
+> *Example: 50 tons, destination 10 hours out, rate 10 cr/ton/day → 500 cr/day × 3 days (load + transit + offload) = 1,500 credits.*
+
+- Late delivery is almost always penalized; early delivery is sometimes bonused.
+- Payment is typically half up front, half on a voucher (which also lists any bonus/penalty terms).
+- **Insurance:** shippers often require 1–10% of cargo value, scaling with risk/fragility/reputation.
+- **Repeat business:** a standing contract with a trading house pays 5–10% under standard rate but guarantees steady work, on-time bonuses, and breaks on repair/upgrade fees.
+
+**Finding a customer** — Moderate *streetwise* or *Perception* roll (GM sets exact difficulty):
+
+| Roll Result | Run Found |
+|---|---|
+| Failure | No run |
+| Very Easy | Long run, not much cargo, marginally profitable |
+| Easy | Long run, large cargo, barely profitable |
+| Moderate | Moderate run, large cargo, fairly profitable |
+| Difficult | Moderate run, full cargo, good profit |
+| Very Difficult | Short run, full cargo, high profit |
+
+*Use this table only between planned adventures/hooks — a prepared job should always supersede it.*
+
+---
+
+## Speculative Trading *(buy cargo yourself, sell for profit elsewhere)*
+
+Riskier and more capital-intensive than drop-point work — roughly 20% of even experienced traders' speculative deals go sour. Key skills: *bargain*, *bureaucracy*, *value* (some worlds instead use *business*, *cultures*, *streetwise*, or *persuasion* — GM's call per planet).
+
+### Planetary Technology Levels
+| Level | Notes |
+|---|---|
+| **Stone** | Tribal, barter-only, no money. Traders sometimes mistaken for demons. *E.g. Endor (Ewoks).* |
+| **Feudal** | Complex social order, slow transport network, currency exists. Can be highly profitable until a trading house muscles in. *E.g. Gamorr.* |
+| **Industrial** | Mass production beginning; hungry for raw materials/metals. First trader in can make a killing. *E.g. Ryloth.* |
+| **Atomic** | Advancing rapidly, broadcasts detectable, may be unknown to the Empire — huge profits if first contact. *E.g. Kubindi.* |
+| **Information** | Sophisticated comms/computing, no hyperspace yet. Rare killings still possible (bacta, etc). |
+| **Space** | Full hyperdrive-era civilization, roughly Core-equivalent tech. Little room for a "killing" unless truly isolated. *E.g. Mon Cala/Calamari.* |
+
+### Trade Good Categories
+Low Technology · Mid Technology · High Technology · Metals · Minerals · Luxury Goods · Foodstuffs · Medicinal Goods
+
+### Supply and Demand Chart
+Cross-reference good category against planetary tech level. **Bold = Supply, plain = Demand.** Letter = VL (very low) / L / M / H / VH (very high); number = base price per ton in credits (Luxuries listed as % of standard price instead).
+
+| | Stone | Feudal | Indust | Atomic | Info | Space |
+|---|---|---|---|---|---|---|
+| **Low Tech** Supply / Demand | M/3300 · H/3465 | H/3135 · VH/3630 | H/3135 · M/3300 | M/3300 · L/3135 | L/3465 · L/3135 | L/3465 · L/3135 |
+| **Mid Tech** Supply / Demand | –/– · VL/4860 | –/– · L/5130 | M/5400 · H/5670 | H/5130 · H/5400 | H/5130 · M/5400 | M/5400 · L/5130 |
+| **High Tech** Supply / Demand | –/– · L/2280 | –/– · M/2400 | –/– · VH/2640 | –/– · H/2520 | M/6000 · H/2520 | H/5700 · M/2400 |
+| **Metals** Supply / Demand | –/– · L/2280 | –/– · M/2400 | L/2520 · VH/2640 | M/2400 · H/2520 | H/2280 · H/2520 | VH/2160 · M/2400 |
+| **Minerals** Supply / Demand | VL/1650 · VL/1350 | L/1575 · L/1425 | L/1575 · VH/1650 | M/1500 · H/1575 | M/1500 · M/1500 | M/1500 · L/1425 |
+| **Luxuries** Supply / Demand | VL/110% · M/100% | L/105% · M/100% | L/105% · M/100% | M/100% · M/100% | M/100% · M/100% | H/95% · M/90% |
+| **Foodstuffs** Supply / Demand | L/1890 · H/1890 | M/1800 · M/1800 | H/1710 · M/1800 | M/1800 · M/1800 | L/1890 · M/1800 | M/1800 · L/1710 |
+| **Medicine** Supply / Demand | VL/4620 · M/4200 | VL/4620 · H/4410 | L/4410 · H/4410 | M/4200 · M/4200 | H/3990 · M/4200 | H/3990 · L/3990 |
+
+**Finding a customer:** *bureaucracy* roll. Difficulty follows the Supply (to buy) or Demand (to sell) rating above — roughly VH=Very Easy, H=Easy, M=Moderate, L=Difficult, VL=Very Difficult. Failure raises the difficulty by +2 for that commodity until a month passes.
+
+**Negotiating price:** opposed *bargain* rolls (wholesale-quantity table, not the retail table in core 2E):
+
+| Seller beats Buyer by | Price change | | Buyer beats Seller by | Price change |
+|---|---|---|---|---|
+| 2–4 | +2% | | 2–4 | −2% |
+| 5–8 | +4% | | 5–8 | −4% |
+| 9–12 | +6% | | 9–12 | −6% |
+| 13–16 | +8% | | 13–16 | −8% |
+| 20+ | +10% | | 20+ | −10% |
+
+*(Rolls within 2 of each other: no change. Either side can walk away and try elsewhere — at +1 difficulty.)*
+
+---
+
+## The Black Market
+
+**Contraband classes** (per core rules item ratings F/R/X):
+- **F (Fee):** needs a special permit/fee, ~5–50% (avg. 10%) of item cost — and creates a paper trail.
+- **R (Restricted):** needs a license (background check, often a fee equal to item cost or more).
+- **X (Illegal):** no legal channel at all — black market only. Possession can mean on-the-spot punishment in Imperial space.
+
+**Finding a contact** — *streetwise* roll, ~1 day per attempt, difficulty rises one step per failed attempt (resets after a month):
+
+| Population of World | Base Difficulty |
+|---|---|
+| Large | Very Easy |
+| Considerable | Easy |
+| Average | Difficult |
+| Small | Very Difficult |
+| Tiny | Heroic |
+
+| Condition | Modifier |
+|---|---|
+| Light/no Imperial presence | −2 |
+| Standard Imperial presence | 0 |
+| Heavy Imperial presence | +2 |
+| Loose/corrupt planetary government | −2 |
+| Standard government | 0 |
+| Repressive government | +2 |
+
+Three or more failed *streetwise* rolls in a row risks drawing the attention of local/Imperial authorities — or of hostile elements within the black market itself who suspect an informant.
+
+**Base Buy/Sell Price for Black Market Goods** (multiplier on the item's normal listed cost):
+
+| Item's Status | Marketeer's Selling Price | Marketeer's Purchase Price |
+|---|---|---|
+| Legal *(bought this way to avoid a paper trail)* | ×2 | ×0.5 |
+| Fee | ×3 | ×1.5 |
+| Restricted | ×4 | ×2 |
+| Illegal | ×5 | ×2.5 |
+
+Actual price is then set by opposed *bargain* rolls (same chart as Speculative Trading, above). Buyers of high-value goods may demand a hostage or up-front payment against a double-cross; sellers are normally responsible for delivery and any bribes needed to get goods off-world.
+
+---
+
+## Loan Sharks
+
+*Directly relevant: the party's likely debt to [Yerkys ne Dago](npcs/yerkys-ne-dago.md) starting Season 3.*
+
+- **Standard rate:** 300% interest over 30 months (10%/month). A bad-risk borrower can be charged up to 900%.
+- Once a debt is taken, the full interest is owed regardless of how fast it's repaid — no discount for early payoff.
+- **1 missed payment:** owed double next month (missed payment + a penalty equal to one payment).
+- **2 missed payments in a row:** thugs pay a visit, "broken-finger" demonstration (treat as a wound, escalating to real combat if resisted).
+- **3+ missed payments:** the borrower is hauled in at blaster-point. Roll a *con* or *bargain* (player's choice) to explain the delinquency: **Very Difficult** pass = stern warning; **Difficult** = beaten (wound); **Moderate** = beaten and dumped in the gutter (incapacitated); **Easy** = mortally wounded; fail entirely = killed. Debt also gains two extra penalty payments for the third+ month missed.
+- Skipping town on a loan shark debt means a bounty on the character (and known associates) until the debt or the debtor is settled.
+- Loan sharks will readily offer direct "employment" (smuggling runs, no questions asked) in exchange for reducing the debt — a built-in hook for the GM to dangle risky jobs.
+
+---
+
+## Ship Modifications & Repairs
+
+### Spaceport Classes
+| Class | Notes |
+|---|---|
+| Landing Field | Bare ground, no control tower, minimal/low-quality services |
+| Limited Services | Small control tower, maintenance sheds, limited parking |
+| Standard Class | Full flight control, restocking, small shipyard (repairs up to 2× normal cost/time) |
+| Stellar Class | Full shipyards, rapid/high-quality repairs, Imperial Customs on-site |
+| Imperial Class | Luxurious, fastest/best repairs, heavy Imperial presence — troublemakers unwelcome |
+
+### Mundane Costs
+- **Docking fees:** ~50 credits/standard day (up to 150/day at a busy Imperial-class port).
+- **Restocking fee formula:** `base fee × total crew+passenger capacity × days of consumables to replace`. Base fee ~10 credits at well-traveled ports, up to ~35 at remote/Outer Rim ports.
+- **Maintenance overhaul:** required every 20 hyperspace jumps; ~1,000 credits average (up to 5,000 for heavily modified/high-use ships). Skipping it: 3% chance of hyperdrive malfunction per jump thereafter (GM secretly rolls 2D, malfunction on a 2).
+- **Repairs** (new parts only, cost = % of the *item's* original cost): **Lightly damaged** Easy/15%, **Heavily damaged** Moderate/25%, **Severely damaged** Very Difficult/35%. Used/salvaged parts cost half — but are less reliable.
+- **Repair time:** 15 min → 1 hr → 2 hr → 1 day → 2 days per attempt (escalating retries). Overtime/bribes can halve time at ~double cost.
+
+### Modification Cost Tables
+*Cost = % of the ship's (or weapon's) original retail price. "Mishap Mod." adds to the malfunction roll when the system is pushed past stock specs (roll a 1 on the wild die while using an upgraded system → roll on the matching Mishap Table below, with this modifier).*
+
+| Maneuverability | Difficulty | Cost | Mishap Mod. |
+|---|---|---|---|
+| +1 | Easy | 5% | +1 |
+| +2 | Moderate | 10% | +1 |
+| +1D | Difficult | 15% | +1 |
+| +1D+1 | Very Difficult | 20% | +2 |
+| +1D+2 *(hard cap)* | Heroic | 25% | +3 |
+
+| Space (Speed) | Difficulty | Cost | Mishap Mod. |
+|---|---|---|---|
+| +1 | Moderate | 10% | +1 |
+| +2 | Difficult | 15% | +1 |
+| +3 | Very Difficult | 25% | +2 |
+| +4 *(hard cap)* | Heroic | 35% | +3 |
+
+| Hyperdrive | Difficulty | Cost | Mishap Mod. |
+|---|---|---|---|
+| ×4/×3 → faster | Easy | 10% | +1 |
+| ×3/×2 | Moderate | 15% | +1 |
+| ×2/×1 | Very Difficult | 25% | +2 |
+| ×1/×½ *(hard cap)* | Heroic | 35% | +3 |
+
+| Hull | Difficulty | Cost | Mishap Mod. |
+|---|---|---|---|
+| +1 | Moderate | 10% | +1 |
+| +2 | Difficult | 15% | +1 |
+| +1D | Very Difficult | 20% | +2 |
+| +1D+1 *(hard cap)* | Heroic | 25% | +3 |
+
+| Weapon Damage | Difficulty | Cost | Mishap Mod. |
+|---|---|---|---|
+| +1 | Easy | 15% | +1 |
+| +2 | Moderate | 25% | +1 |
+| +1D | Difficult | 30% | +2 |
+| +1D+1 | Very Difficult | 35% | +2 |
+| +1D+2 | Heroic | 50% | +3 |
+
+**Installation time:** Very Easy 1 hr · Easy 6 hr · Moderate 1 day · Difficult 2 days · Very Difficult 1 week · Heroic 1 month. Modified systems (vs. full replacement) don't take extra cargo space. Replacement systems free up/take cargo weight — track it.
+
+### Replacement Drive Options *(sample, for when a system is replaced outright rather than modified)*
+
+| Ion Drive | Cost | Space Rating | Notes |
+|---|---|---|---|
+| SoroSuub Boav | 10,000 cr | 4 | Cheap, simple, +1 difficulty to repair (non-SoroSuub techs) |
+| Incom Starslinger | 20,000 cr | 6 | Open market, needs 500-cr permit |
+| Corellian Evader-GT | 50,000 cr | 8 | Open market, needs 5,000-cr permit |
+| Kuat Boshaa-C'hi | 100,000 cr | 10 | Military-grade, black market only, Class One infraction to possess |
+| Sienar Starscream-9 | 500,000 cr | 12 | Top military-grade, black market only, Class One infraction to possess |
+
+| Hyperdrive | Cost | Notes |
+|---|---|---|
+| ×1/2 (custom-built only) | 50,000–90,000 cr | Extremely illegal, extremely failure-prone |
+| ×1 Griffyn-XTG (SoroSuub) | 15,000 cr | +1 difficulty on non-SoroSuub ships |
+| ×2 Avatar-10 (Corellian) | 10,000 cr | Compatible with any craft — +1D bonus to install |
+| ×3 Horizon-Hopper (Incom) | 7,000 cr | — |
+| ×4 ATX-5 (Rendili) | 4,000 cr | — |
+| ×5 Lifesaver 1000 Reserve (Sienar) | — | Backup drive only |
+
+---
+
+## Mishap Tables
+
+*Roll 1D when a modified/upgraded system malfunctions (a 1 on the wild die while using a system pushed past its stock rating, per the Mishap Mod. above). Severity band: **1–2 Minor, 3–5 Moderate, 6+ Catastrophic** (roll 2D for severity, or GM's call).*
+
+### Sublight Drive
+| Roll | Minor | Moderate | Catastrophic |
+|---|---|---|---|
+| 1 | Conduit blows; Space −2 until repaired (Easy) | +10 to all maneuver difficulty for 2D rounds | Overloads on landing; replacement engine costs 25% of original |
+| 2 | Ship stalls at same speed 2 rounds | Circuit failure: 1D at round start, 1–2 = controls ionized | Engine shuts down, no thrust, Maneuver 0D, +15 astrogation |
+| 3 | +5 maneuver difficulty 1 round | Conduit blows; Space −2 until repaired (Moderate) | Engine destroyed, must be replaced |
+| 4 | Unsafe params: no maneuvers 2 rounds or +10 difficulty until repaired (Easy) | Stalls 2 rounds, Maneuver 0D for 5 rounds | Engine destroyed + 4D dmg to anyone nearby (explosion/smoke) |
+| 5 | +5 maneuver difficulty incl. landing; repairs cost 10% engine cost | Dead in space 1D rounds | Engine + power surge destroys drive, disables hyperdrive (Difficult repair) |
+| 6 | Conduits blow, +10 difficulty until rerouted (Moderate, 2 rounds) | Unsafe params, no maneuvers 2 rounds or burnout +10 until repaired (Moderate) | Drive fails on final approach — Difficult pilot roll or crash (5D dmg) |
+
+### Maneuverability
+| Roll | Minor | Moderate | Catastrophic |
+|---|---|---|---|
+| 1 | Maneuver −1D for 1 round | Maneuver −2D for 1 round | Thrusters blow, Maneuver 0D, full replacement needed |
+| 2 | Dampers misaligned, −2D until Easy repair | Radiation leak — repair before next jump (Moderate) or +10 astrogation & doubled hyperspace time | System short, 0D for 1 round, then 1D each round (1–2 = shorts again) |
+| 3 | Radiation leak — repair before next jump (Easy) or +10 astrogation + 4D rad dmg | Dampers misaligned, −2D until Moderate repair | Thrusters fire randomly, +10 maneuver until shut down (Easy pilot) & repaired (Moderate, 500cr parts) |
+| 4 | Thrusters misfire, +5 maneuver diff, enemies +5 to hit | System short, 0D for 1D rounds | Power surge — 0D 1D rounds + destroys 1 system (1 Hyperdrive / 2–3 Ion drive / 4 Sensors / 5 Comms / 6 a weapon) |
+| 5 | Circuitry blows, +5 diff until replaced (Easy w/ parts) | Circuitry blows, +10 diff until replaced (Easy w/ parts) | Radiation leak — double hyperspace time, 6D rad dmg near engine |
+| 6 | System short, 0D for 1 round | Thrusters misfire, +5 diff, enemies +5 to hit 3 rounds | Thrusters blow (0D) + Space −2 for 1D rounds |
+
+### Hyperdrive
+| Roll | Minor | Moderate | Catastrophic |
+|---|---|---|---|
+| 1 | Trip takes 1D hrs longer | Overload — Difficult repair to restore | Hyperdrive completely destroyed |
+| 2 | Motivator damaged, won't engage (Very Easy repair) | Power flux, delays entry 1D+2 rounds | Power flux nearly destroys drive (Very Difficult repair) |
+| 3 | Power flux, delays entry 2 rounds | Backup destroyed + main multiplier doubled | Collision in hyperspace — hull ruptured, ship must be abandoned |
+| 4 | Overload shunts power: destroys 1–2 Comms / 3–4 Sensors / 5–6 1D shields | Misjump — wrong system | Trip takes 1D days longer |
+| 5 | Misaligned — Easy repair before engaging | Trip takes 4D hrs longer | Misjump — wrong system |
+| 6 | Misjump — wrong system | Hyperdrive destroyed on arrival (but ship arrives) | Near-miss collision, must replot course |
+
+### Hull
+| Roll | Minor | Moderate | Catastrophic |
+|---|---|---|---|
+| 1 | Sensors/comms out 1D rounds | Hull −1D for 1D rounds (vibration) | Power surge destroys 1 system (1 Comms / 2–3 Sensors / 4–5 Backup hyperdrive / 6 Main hyperdrive) |
+| 2 | Bulkheads auto-seal 2 rounds (Very Easy to reopen) | Susceptible to further dmg: +2D enemy dmg next 3 rounds | Breach, bulkheads seal; 8D vacuum dmg until sealed (1D rounds) or Difficult Strength check |
+| 3 | Susceptible to further dmg: +1D enemy dmg next 3 rounds | Micro-breach, bulkheads seal (Very Easy to reopen + repair) | Breach + bulkhead failure: 8D dmg to all until manual/computer seal |
+| 4 | Shields −1D for 1 round | Shield failure: −1D 1D rounds, then −1 until repaired | Serious hull damage: −3D until Very Difficult repair |
+| 5 | Hull −1D for 1 round | Sensors/comms out 1D rounds | Shields −2D until Moderate repair |
+| 6 | Space −1, Maneuver −1D for 2 rounds | Hyperdrive interference: +10 astrogation for 1D rounds | Breach in cargo hold — half of cargo lost to vacuum |
+
+### Weaponry
+| Roll | Minor | Moderate | Catastrophic |
+|---|---|---|---|
+| 1 | Fire control −1D 1 round | Fire control −1D for 1D rounds | Conduit blows, weapon disabled (Moderate repair) |
+| 2 | Fire control −1D until fixed (Easy repair) | Fire control 0D until fixed (Easy repair) | Turret freezes 1D rounds (no effect if fixed mount) |
+| 3 | Fires once/round only, 1 round | Fire control 0D until fixed (Moderate repair) | Weapon melts to slag — destroyed |
+| 4 | Range halved 1 round | Weapon disabled until fixed (Moderate repair) | 1D each round 5–6 = weapon destroyed (Heroic repair) |
+| 5 | Damage −1D 1 round | Range data faulty, +2D gunnery 5 rounds | Weapon fires once per 4 rounds |
+| 6 | Conduit blows, disabled until fixed (Very Easy repair) | Fire control 0D, damage −3D until fixed | Disables 1D other weapons for 2 rounds |
+
+---
+
+## Reference Charts
+
+### Minos Cluster Distance Chart *(hours, ×1 hyperdrive)*
+
+| | Adarlon | Karideph | Mestra | Yelsain | Pergitor | Gesaril | Travnin | Quockra | Eliad | Shesharile |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Adarlon** | X | 65 | 40 | 20 | 55 | 45 | 15 | 30 | 75 | 55 |
+| **Karideph** | 65 | X | 80 | 105 | 20 | 10 | 60 | 40 | 70 | 35 |
+| **Mestra** | 40 | 80 | X | 40 | 25 | 60 | 40 | 55 | 15 | 10 |
+| **Yelsain** | 20 | 105 | 40 | X | 75 | 90 | 15 | 55 | 35 | 65 |
+| **Pergitor** | 55 | 20 | 25 | 75 | X | 40 | 60 | 85 | 30 | 40 |
+| **Gesaril** | 45 | 10 | 60 | 90 | 40 | X | 70 | 40 | 80 | 25 |
+| **Travnin** | 15 | 60 | 40 | 15 | 60 | 70 | X | 15 | 60 | 10 |
+| **Quockra** | 30 | 40 | 55 | 55 | 85 | 40 | 15 | X | 70 | 35 |
+| **Eliad** | 75 | 70 | 15 | 35 | 30 | 80 | 60 | 70 | X | 45 |
+| **Shesharile** | 55 | 35 | 10 | 65 | 40 | 25 | 10 | 35 | 45 | X |
+
+*A ×2 hyperdrive (standard for tramp freighters) roughly doubles these times.*
+
+### Luxury Goods Chart
+
+| Good | Cubic Meters/Metric Ton | Base Credits/Metric Ton |
+|---|---|---|
+| Gold | 0.05 | 140,000 |
+| Silver | 0.1 | 20,000 |
+| Spice | 2 | 2,700 |
+| Ryll | 1 | 35,000 |
+
+---
+
+*← [Back to Campaign](README.md)*
+
+---
+
+*Reference document compiled from WEG40005 Tatooine Manhunt (1988) and WEG40095 Galaxy Guide 6: Tramp Freighters (1994), with campaign modifications.*
 *Graff Raster = [Adar Tallon](https://starwars.fandom.com/wiki/Adar_Tallon) (renamed). Bora and Indie are siblings. Graff is their estranged uncle.*
 *All wiki links default to Legends continuity — [Wookieepedia](https://starwars.fandom.com/wiki/Main_Page)*
