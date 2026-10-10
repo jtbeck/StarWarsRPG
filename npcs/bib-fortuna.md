@@ -16,20 +16,12 @@ A tall, pale [Twi'lek](https://starwars.fandom.com/wiki/Twi%27lek/Legends) in da
 **Relevant to [Torbek](../pcs/torbek.md):** Bib holds Torbek's contract, and he knows exactly what it says. See [Jabba's Bill](../sessions/season-2/jabbas-bill.md).
 
 ## Stats
-*GM-assigned. No WEG stat block in the sourcebooks on hand.*
 
-| Attribute | Value | Skills |
-|---|---|---|
-| DEX | 2D | Blaster 3D, Dodge 3D |
-| KNO | 3D+1 | Alien Species 5D, Bureaucracy 5D+2, Languages 5D, Streetwise 6D, Value 6D |
-| MEC | 2D | — |
-| PER | 4D | **Bargain 6D+1**, Command 5D, Con 6D, Persuasion 5D+2 |
-| STR | 2D | — |
-| TEC | 2D | — |
+See ***Star Wars Trilogy Sourcebook*** (WEG), **page 67**.
 
 ## Equipment
 
-Hold-out blaster (3D+2), datapad holding Torbek's contract, two [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) guards (use [Gorrt's](gorrt.md) stats).
+Per the sourcebook, plus a datapad holding Torbek's contract, two [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) guards (use [Gorrt's](gorrt.md) stats).
 
 ## Personality
 

@@ -41,7 +41,7 @@ Bib produces a datapad and reads from it in a pleasant, unhurried voice.
 | "Inconvenience to His Excellency" | 1,000 cr | **0 cr** | Bib's padding. He gives it up if the crew bargains well. |
 | **Total** | **9,500 cr** | **6,500 cr** | |
 
-**Bargaining:** Opposed *bargain* (whoever negotiates) vs. Bib's **Bargain 6D+1**. For each step of success, take about 1,000 cr off the total, down to the 6,500 floor. A good argument (Torbek's years of service, the Empire about to land, the crew already being *in* the docking bay) gives the negotiator +1D. Threatening Bib gives +1D to *Bib*, because he enjoys it.
+**Bargaining:** Opposed *bargain* (whoever negotiates) vs. Bib's *bargain* (stats: *Star Wars Trilogy Sourcebook*, p. 67). For each step of success, take about 1,000 cr off the total, down to the 6,500 floor. A good argument (Torbek's years of service, the Empire about to land, the crew already being *in* the docking bay) gives the negotiator +1D. Threatening Bib gives +1D to *Bib*, because he enjoys it.
 
 **Typical outcome:** about **7,500 cr**.
 

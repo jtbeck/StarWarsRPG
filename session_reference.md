@@ -551,7 +551,7 @@ Green-skinned, pig-like snout, small horns and tusks. Works with [Akkik](https:/
 
 ### [Bib Fortuna](npcs/bib-fortuna.md) — Jabba's Majordomo
 
-Pale [Twi'lek](https://starwars.fandom.com/wiki/Twi%27lek/Legends), silky and smug. Waiting at Docking Bay 94 in Episode 8 with Jabba's bill: the lost collections, plus a buyout of Torbek's contract (Torbek's clan **sold him into slavery**). **Bargain 6D+1.** Full scene: [Jabba's Bill](sessions/season-2/jabbas-bill.md).
+Pale [Twi'lek](https://starwars.fandom.com/wiki/Twi%27lek/Legends), silky and smug. Waiting at Docking Bay 94 in Episode 8 with Jabba's bill: the lost collections, plus a buyout of Torbek's contract (Torbek's clan **sold him into slavery**). Stats: *Star Wars Trilogy Sourcebook*, p. 67. Full scene: [Jabba's Bill](sessions/season-2/jabbas-bill.md).
 
 ---
 
