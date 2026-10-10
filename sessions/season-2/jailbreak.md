@@ -254,7 +254,7 @@ Henry's gear is in Room 3. The crew should think to grab it — an unarmed Wooki
 
 | Consequence | Where it plays out |
 |---|---|
-| **Mos Eisley police bounty:** 250 cr for each crew member on the holos, 500 cr each for Henry and Torbek (2,000 cr total), posted at Puggles Trodd's registration board. Everyone except Eck is at Heat ●○○ 1. | [Heat Index](../../README.md#heat-index) · each PC's Rap Sheet |
+| **Mos Eisley police bounty:** 250 cr for each crew member on the holos, 500 cr each for Henry and Torbek (1,750 cr total), posted at Puggles Trodd's registration board. Everyone except Eck and Graff Raster is at Heat ●○○ 1. Graff is at 0 by GM ruling. | [Heat Index](../../README.md#heat-index) · each PC's Rap Sheet |
 | **The freed hunters see the bounty** and go after the people who freed them. | [Exploring the Wastes, Encounter 1](exploring-the-wastes.md#encounter-1--here-there-be-dragons) |
 | **Jabba finds out Torbek is loose.** [Akkik](../../npcs/akkik.md) hears the gossip about the jailbreak, and [Bib Fortuna](../../npcs/bib-fortuna.md) is waiting at the ship. | [Jabba's Bill](jabbas-bill.md) (Episode 8) |
 

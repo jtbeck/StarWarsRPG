@@ -85,7 +85,7 @@ Torbek was never an employee. His clan **sold him into slavery**, and Jabba has 
 |---|---|
 | Stolen from Torel Vorne | 10,000 |
 | Jabba's Bill (typical) | −7,500 |
-| Clearing the Mos Eisley bounties with [Prefect Depp](../../npcs/prefect-depp.md) *(optional)* | −2,500 |
+| Clearing the Mos Eisley bounties with [Prefect Depp](../../npcs/prefect-depp.md) *(optional)* | −2,200 |
 | Fuel and docking fees on the way out | −a few hundred |
 | **Arrival in the Minos Cluster** | **~0–2,500** |
 

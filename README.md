@@ -65,13 +65,13 @@ Every PC write-up has a **Rap Sheet**: a running history of infractions and pena
 | [Captain Bora](pcs/captain-bora.md) | ●○○ 1 | 250 cr |
 | [Indie](pcs/indie.md) | ●○○ 1 | 250 cr |
 | [Gune](pcs/gune.md) | ●○○ 1 | 250 cr |
-| [Graff Raster](pcs/graff-raster.md) | ●○○ 1 | 250 cr |
+| [Graff Raster](pcs/graff-raster.md) | ○○○ 0 | None (GM ruling) |
 | [Henry](pcs/henry.md) | ●○○ 1 | 500 cr |
 | [Torbek](pcs/torbek.md) | ●○○ 1 | 500 cr |
 | [Eck](pcs/eck.md) | ○○○ 0 | None (stayed outside) |
-| **Total** | | **2,000 cr** |
+| **Total** | | **1,750 cr** |
 
-Fine to clear all of it with Depp: **~2,500 cr**.
+Fine to clear all of it with Depp: **~2,200 cr**.
 
 ### Current Heat — Galactic Empire
 
@@ -94,7 +94,7 @@ The crew's shared credits. Personal funds stay on each character sheet. **Goal:*
 | Source | Expected | Notes |
 |---|---|---|
 | [Jabba's Bill](sessions/season-2/jabbas-bill.md) | −6,500 to −9,500 (typically ~7,500) | Lost collections plus buying out Torbek's contract. Ep 8, Docking Bay 94. |
-| Clearing Mos Eisley Heat with Depp | −2,500 | Optional. Otherwise the Heat stays. |
+| Clearing Mos Eisley Heat with Depp | −2,200 | Optional. Otherwise the Heat stays. |
 | Fuel and docking fees on the way out | a few hundred | |
 
 ---

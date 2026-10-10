@@ -43,7 +43,7 @@ A sail barge stranded and under attack from three [Krayt Dragons](https://starwa
 
 ### Jailbreak Fallout — Old Friends, New Bounty
 
-On their way out of town, the hunters stopped at Puggles Trodd's registration board and saw the new **Mos Eisley police bounty** posted for the jailbreak: 2,000 cr total, with holocam stills of everyone except Eck. They recognized the people who let them out. They came into the Wastes chasing the Graff Raster bounty, and the crew is now a **bonus**.
+On their way out of town, the hunters stopped at Puggles Trodd's registration board and saw the new **Mos Eisley police bounty** posted for the jailbreak: 1,750 cr total, with holocam stills of Bora, Indie, Gune, Henry, and Torbek. They recognized the people who let them out. They came into the Wastes chasing the Graff Raster bounty, and the crew is now a **bonus**.
 
 - **When they spot the crew:** They're happy, then confused, then greedy. One of them is holding a crumpled flimsi wanted poster and keeps comparing it to Bora's face.
 - **If the crew rescues them (a second time):** The hunters argue loudly about whether it's honorable to collect on someone who has saved you twice. It's played for comedy, and the "yes" side is winning. They try to steal the speeder anyway, now calling it "evidence."
