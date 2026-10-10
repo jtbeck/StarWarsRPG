@@ -187,7 +187,7 @@ Read aloud to the players:
 
 **Location:** Open desert flat, mid-morning.
 
-A large sail barge is stranded and under attack by three [Krayt Dragons](https://starwars.fandom.com/wiki/Krayt_dragon/Legends). Six bumbling amateur bounty hunters are aboard — rank amateurs who answered the Imperial bounty, not Kast's crew.
+A large sail barge is stranded and under attack by three [Krayt Dragons](https://starwars.fandom.com/wiki/Krayt_dragon/Legends). Six bumbling amateur bounty hunters are aboard — rank amateurs who answered the Imperial bounty, not Kast's crew. **These are the prisoners the crew freed during the Jailbreak.** They've since seen the Mos Eisley bounty on the crew. See [Exploring the Wastes](sessions/season-2/exploring-the-wastes.md#jailbreak-fallout--old-friends-new-bounty).
 
 > *As you come over a large sand dune you see a flat plain that stretches to the horizon. There, lying wounded just above the burning sand, is a large sail barge. Overloaded with bumbling, amateur bounty hunters, the craft appears to be ripe pickings for the creatures surrounding it. The sail barge is under attack by three huge, terrifying monsters! "Them's Krayt Dragons," explains Arno, "some of the most fearsome creatures to walk the Tatooine sands."*
 
@@ -546,6 +546,12 @@ Green-skinned, pig-like snout, small horns and tusks. Works with [Akkik](https:/
 
 **Equipment:** Vibroxe (6D+1).
 *"Grunt."*
+
+---
+
+### [Bib Fortuna](npcs/bib-fortuna.md) — Jabba's Majordomo
+
+Pale [Twi'lek](https://starwars.fandom.com/wiki/Twi%27lek/Legends), silky and smug. Waiting at Docking Bay 94 in Episode 8 with Jabba's bill: the lost collections, plus a buyout of Torbek's contract (Torbek's clan **sold him into slavery**). **Bargain 6D+1.** Full scene: [Jabba's Bill](sessions/season-2/jabbas-bill.md).
 
 ---
 

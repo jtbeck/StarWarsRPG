@@ -240,4 +240,24 @@ Henry's gear is in Room 3. The crew should think to grab it — an unarmed Wooki
 
 ---
 
+## What Actually Happened
+
+**Result: Messy but Successful.** The crew got Henry and [Torbek](../../pcs/torbek.md) out (Torbek tagged along) and left before backup arrived, but **the alarm went off**.
+
+**Who went in:** Captain Bora, Indie, Gune, and Graff Raster. **Eck stayed outside.**
+
+**What they didn't think about:** the security holocams. The desk clerk's monitors recorded everyone who came inside.
+
+**The other prisoners:** The other cells held the **bumbling amateur bounty hunters** from Episode 5. The crew let them out too. They show up again at the sail barge. See [Exploring the Wastes, Encounter 1](exploring-the-wastes.md#encounter-1--here-there-be-dragons).
+
+### Consequences
+
+| Consequence | Where it plays out |
+|---|---|
+| **Mos Eisley police bounty:** 250 cr for each crew member on the holos, 500 cr each for Henry and Torbek (2,000 cr total), posted at Puggles Trodd's registration board. Everyone except Eck is at Heat ●○○ 1. | [Heat Index](../../README.md#heat-index) · each PC's Rap Sheet |
+| **The freed hunters see the bounty** and go after the people who freed them. | [Exploring the Wastes, Encounter 1](exploring-the-wastes.md#encounter-1--here-there-be-dragons) |
+| **Jabba finds out Torbek is loose.** [Akkik](../../npcs/akkik.md) hears the gossip about the jailbreak, and [Bib Fortuna](../../npcs/bib-fortuna.md) is waiting at the ship. | [Jabba's Bill](jabbas-bill.md) (Episode 8) |
+
+---
+
 *Old Arno leaves at first light. The desert does not forgive the slow.*

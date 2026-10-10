@@ -141,4 +141,20 @@ Per the template, a failed Jedi typically takes on a PC as a Force student. Graf
 
 > *"Imperials have become more persistent and ingenious since last I dealt with Palpatine's agents. I am Graff Raster. And now the hiding ends."*
 
+---
+
+## Rap Sheet
+
+*Running record of infractions and penalties. See the [Heat Index](../README.md#heat-index).*
+
+| Jurisdiction | Heat | Bounty |
+|---|---|---|
+| Mos Eisley | ●○○ 1 | 250 cr |
+
+| Day | Where | Infraction | Penalty | Status |
+|---|---|---|---|---|
+| Day 2, late night | Mos Eisley | Jailbreak: broke Henry and Torbek out of the police station. Set off the alarm and was caught on the station's security holocams. | **250 cr bounty** (Mos Eisley Police, posted at Puggles Trodd's registration board) | Open |
+
+---
+
 *← [Player Characters](../README.md#player-characters)*

@@ -13,7 +13,7 @@
 |---|---|
 | **Species** | [Wookiee](https://starwars.fandom.com/wiki/Wookiee/Legends) (adolescent) |
 | **Role** | Party companion, Gune's ward |
-| **Current status** | ⚠ In Mos Eisley jail — [see Jailbreak session](../sessions/season-2/jailbreak.md) |
+| **Current status** | Free. Broken out of Mos Eisley jail, wanted by local police. See [Rap Sheet](#rap-sheet) |
 | **Guardian** | [Gune](gune.md) |
 
 ## Background
@@ -45,6 +45,19 @@ When Henry witnesses cruelty toward the helpless or is badly hurt, the GM may tr
 ## Cell Bond
 
 Henry spent the night in jail with [Torbek](torbek.md). Neither attacked the other. By arrival of the PCs, they've been quietly working the cell bars together for hours. The Gamorrean's honor code, Henry's trust — an unlikely alliance formed in a stone cell.
+
+## Rap Sheet
+
+*Running record of infractions and penalties. See the [Heat Index](../README.md#heat-index).*
+
+| Jurisdiction | Heat | Bounty |
+|---|---|---|
+| Mos Eisley | ●○○ 1 | 500 cr |
+
+| Day | Where | Infraction | Penalty | Status |
+|---|---|---|---|---|
+| Day 2, night | Mos Eisley | Assault: went into a Wookiee rage during the cantina ambush and beat bounty hunters in the street | Arrested and jailed | Escaped (see below) |
+| Day 2, late night | Mos Eisley | Jailbreak: escaped custody with outside help. Set off the alarm and was caught on the station's security holocams. | **500 cr bounty** (Mos Eisley Police, posted at Puggles Trodd's registration board) | Open |
 
 ---
 

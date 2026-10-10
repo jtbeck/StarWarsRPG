@@ -15,6 +15,8 @@ Short, smelly, hidden completely under a heavy hooded cloak. Constantly chatteri
 
 **Relevant to [Torbek](../pcs/torbek.md):** Akkik is Jabba's eyes in Mos Eisley. If he spots Torbek loose, word gets back to Jabba within the hour, and Jabba wants Torbek dead over the protection money that went missing on his last route. Akkik will be a problem again in Episode 8 when the party runs back through Mos Eisley.
 
+**After the jailbreak:** The alarm made the breakout the talk of the town, and Akkik heard about the Gamorrean by morning. Jabba knows. [Bib Fortuna](bib-fortuna.md) is waiting at Docking Bay 94. See [Jabba's Bill](../sessions/season-2/jabbas-bill.md).
+
 ## Stats
 
 | Attribute | Value | Skills |

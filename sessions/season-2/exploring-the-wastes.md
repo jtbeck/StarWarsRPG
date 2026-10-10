@@ -35,11 +35,22 @@ Most bounty hunters left for the Wastes before First Dawn following [Jodo Kast](
 
 **Location:** Open desert flat, mid-morning.
 
-A sail barge stranded and under attack from three [Krayt Dragons](https://starwars.fandom.com/wiki/Krayt_dragon/Legends). Six bumbling amateur bounty hunters aboard — not Kast's crew.
+A sail barge stranded and under attack from three [Krayt Dragons](https://starwars.fandom.com/wiki/Krayt_dragon/Legends). Six bumbling amateur bounty hunters aboard — not Kast's crew. **These are the prisoners the crew let out during [the Jailbreak](jailbreak.md#what-actually-happened).**
 
 > *As you come over a large sand dune you see a flat plain that stretches to the horizon. There, lying wounded just above the burning sand, is a large sail barge. Overloaded with bumbling, amateur bounty hunters, the craft appears to be ripe pickings for the creatures surrounding it. The sail barge is under attack by three huge, terrifying monsters! "Them's Krayt Dragons," explains Arno, "some of the most fearsome creatures to walk the Tatooine sands."*
 
 **Choice:** Help or drive past. Helping earns Arno's approval; ungrateful hunters try to steal the speeder if rescued.
+
+### Jailbreak Fallout — Old Friends, New Bounty
+
+On their way out of town, the hunters stopped at Puggles Trodd's registration board and saw the new **Mos Eisley police bounty** posted for the jailbreak: 2,000 cr total, with holocam stills of everyone except Eck. They recognized the people who let them out. They came into the Wastes chasing the Graff Raster bounty, and the crew is now a **bonus**.
+
+- **When they spot the crew:** They're happy, then confused, then greedy. One of them is holding a crumpled flimsi wanted poster and keeps comparing it to Bora's face.
+- **If the crew rescues them (a second time):** The hunters argue loudly about whether it's honorable to collect on someone who has saved you twice. It's played for comedy, and the "yes" side is winning. They try to steal the speeder anyway, now calling it "evidence."
+- **If the crew drives past:** The hunters survive somehow, battered and furious, and show up at a bad moment later in Episode 6.
+- **One of them remembers the debt.** Choose one hunter (the youngest, or the one Henry carried out of the cell) who refuses to go along. Save them for a payoff: they tip the crew off or sabotage Kast's hunters at the worst possible moment for Kast, in Episode 6's defeated-hunters scene or during the Episode 8 escape.
+
+**Heat:** If any hunter actually turns the crew in, raise that character's Mos Eisley Heat to ●●○ 2 on their [Rap Sheet](../../README.md#heat-index).
 
 ### [Krayt Dragon](https://starwars.fandom.com/wiki/Krayt_dragon/Legends) ×3
 

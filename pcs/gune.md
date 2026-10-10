@@ -34,6 +34,18 @@ Gune's relationship with [Henry](henry.md) is central to the Jailbreak episode. 
 ## Stats
 *Player-managed character sheet.*
 
+## Rap Sheet
+
+*Running record of infractions and penalties. See the [Heat Index](../README.md#heat-index).*
+
+| Jurisdiction | Heat | Bounty |
+|---|---|---|
+| Mos Eisley | ●○○ 1 | 250 cr |
+
+| Day | Where | Infraction | Penalty | Status |
+|---|---|---|---|---|
+| Day 2, late night | Mos Eisley | Jailbreak: broke Henry and Torbek out of the police station. Set off the alarm and was caught on the station's security holocams. | **250 cr bounty** (Mos Eisley Police, posted at Puggles Trodd's registration board) | Open |
+
 ---
 
 *← [Player Characters](../README.md#player-characters)*

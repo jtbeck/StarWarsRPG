@@ -23,7 +23,7 @@ Find and protect **[Graff Raster](pcs/graff-raster.md)** — fallen Jedi, estran
 - **Adar Tallon → Graff Raster** — renamed and reimagined as a fallen Jedi
 - **Captain Bora & Indie are siblings** — Graff Raster is their estranged uncle *(unrevealed to their characters)*
 - **Graff Raster is now a player character** — formerly run as an NPC/mission objective
-- **Henry** — adolescent Wookiee, Gune's ward, recently arrested
+- **Henry** — adolescent Wookiee, Gune's ward. Broken out of Mos Eisley jail, now wanted
 - **Torbek** — former Jabba collector, marked for death over missing protection money, introduced in the Jailbreak episode
 
 ---
@@ -42,12 +42,64 @@ Find and protect **[Graff Raster](pcs/graff-raster.md)** — fallen Jedi, estran
 
 ---
 
+## Heat Index
+
+Every PC write-up has a **Rap Sheet**: a running history of infractions and penalties, plus a Heat rating for each jurisdiction where they're wanted. Add a row whenever the crew breaks the law somewhere that notices, and update the Status column when a penalty gets paid, cleared, or escalates.
+
+| Heat | Name | What it means |
+|---|---|---|
+| ○○○ 0 | **Clean** | Nobody's looking. |
+| ●○○ 1 | **Noticed** | Small local bounty. Whenever the character is in a public space in that jurisdiction, roll 1D. On a **1**, someone recognizes them: a cop, an amateur hunter, or a snitch looking for a tip. |
+| ●●○ 2 | **Wanted** | Bounty doubles. Patrols check IDs, and the 1D recognition roll triggers on a **1–2**. Imperial authorities (in Mos Eisley, Prefect Depp's stormtroopers) get involved. |
+| ●●● 3 | **Hunted** | Real hunters take the job. Recognition triggers on a **1–3**, and the authorities actively search for the character instead of waiting to stumble onto them. |
+
+**Raising Heat:** Being loud again in the same jurisdiction, such as a firefight, another alarm, or a dead officer.
+**Clearing Heat:** Pay the fine to the local authority: the bounty plus a "processing fee" of roughly 25%. In Mos Eisley that means [Prefect Depp](npcs/prefect-depp.md), who makes it as humiliating as possible. Heat can also be bribed down, forged away, or simply outrun by leaving the system.
+
+### Current Heat — Mos Eisley
+
+*Jailbreak, Day 2 late night: alarm triggered, and nobody thought about the security holocams.*
+
+| Character | Heat | Bounty |
+|---|---|---|
+| [Captain Bora](pcs/captain-bora.md) | ●○○ 1 | 250 cr |
+| [Indie](pcs/indie.md) | ●○○ 1 | 250 cr |
+| [Gune](pcs/gune.md) | ●○○ 1 | 250 cr |
+| [Graff Raster](pcs/graff-raster.md) | ●○○ 1 | 250 cr |
+| [Henry](pcs/henry.md) | ●○○ 1 | 500 cr |
+| [Torbek](pcs/torbek.md) | ●○○ 1 | 500 cr |
+| [Eck](pcs/eck.md) | ○○○ 0 | None (stayed outside) |
+| **Total** | | **2,000 cr** |
+
+Fine to clear all of it with Depp: **~2,500 cr**.
+
+---
+
+## Crew Ledger
+
+The crew's shared credits. Personal funds stay on each character sheet. **Goal:** the crew should reach the Minos Cluster close to broke, so [Yerkys ne Dago](npcs/yerkys-ne-dago.md) gets his hooks in ([The Long Way Out](sessions/season-3/the-long-way-out.md)).
+
+| Day | Entry | Change | Balance |
+|---|---|---|---|
+| Before campaign | Stolen from [Torel Vorne](sessions/prologue-recap.md). Vorne is telling the whole Outer Rim about it. | +10,000 | 10,000 |
+
+**Pending drains:**
+
+| Source | Expected | Notes |
+|---|---|---|
+| [Jabba's Bill](sessions/season-2/jabbas-bill.md) | −6,500 to −9,500 (typically ~7,500) | Lost collections plus buying out Torbek's contract. Ep 8, Docking Bay 94. |
+| Clearing Mos Eisley Heat with Depp | −2,500 | Optional. Otherwise the Heat stays. |
+| Fuel and docking fees on the way out | a few hundred | |
+
+---
+
 ## Session Notes
 
 | Session | Title | Day | Status |
 |---|---|---|---|
-| [The Jailbreak](sessions/season-2/jailbreak.md) | Break Henry out of Mos Eisley jail | Night, Day 2 | **← NEXT** |
-| [Season 2 Episode 2 — Exploring the Wastes](sessions/season-2/exploring-the-wastes.md) | Into the desert with Old Arno | Day 3 | Upcoming |
+| [The Jailbreak](sessions/season-2/jailbreak.md) | Break Henry out of Mos Eisley jail | Night, Day 2 | Played: Henry and Torbek freed, alarm triggered |
+| [Season 2 Episode 2 — Exploring the Wastes](sessions/season-2/exploring-the-wastes.md) | Into the desert with Old Arno | Day 3 | **← NEXT** |
+| [Jabba's Bill](sessions/season-2/jabbas-bill.md) | Bib Fortuna collects for Torbek. Scene insert for Ep 8. | Day 4 night | Prepped |
 
 ---
 
@@ -76,6 +128,7 @@ Find and protect **[Graff Raster](pcs/graff-raster.md)** — fallen Jedi, estran
 |---|---|
 | [Akkik](npcs/akkik.md) | Jawa enforcer — Jabba's eyes in Mos Eisley |
 | [Gorrt](npcs/gorrt.md) | Gamorrean muscle, currently in the medical bay |
+| [Bib Fortuna](npcs/bib-fortuna.md) | Jabba's majordomo. Holds Torbek's bill of sale. Waiting at Docking Bay 94. |
 | [Prefect Orun Depp](npcs/prefect-depp.md) | Imperial prefect of Mos Eisley, sole jail keyholder |
 
 ---

@@ -12,7 +12,7 @@
 | **Species** | [Gamorrean](https://starwars.fandom.com/wiki/Gamorrean/Legends) |
 | **Role** | New party member, former protection-money collector |
 | **Former employer** | [Jabba the Hutt](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends) |
-| **Current status** | In Mos Eisley jail, Cell 2 — and for once, that's the safest place he's ever been. [See Jailbreak session](../sessions/season-2/jailbreak.md) |
+| **Current status** | Free. Broken out of Mos Eisley jail alongside Henry, wanted by local police, and Jabba knows he's loose. See [Rap Sheet](#rap-sheet) |
 
 ## How He Got Here
 
@@ -26,6 +26,14 @@ Before Jabba's people could collect him personally, the Mos Eisley militia scoop
 
 The militia threw him in with [Henry](henry.md), hoping they'd fight to the death. He took one look at a terrified adolescent Wookiee pressed into a corner and sat down. You don't finish something that's already over, that's not honor. By the time the PCs arrive, both have been quietly working the cell bars together for hours.
 
+## GM Secret: The Bill of Sale
+
+*Not yet revealed in play. Revealed in [Jabba's Bill](../sessions/season-2/jabbas-bill.md).*
+
+Torbek was never Jabba's employee. **His clan sold him into slavery**, for forty crates of Gamorrean ale, and Jabba has owned him ever since. The missing collections are just Jabba's excuse. Ownership is the real hold. [Bib Fortuna](../npcs/bib-fortuna.md) has the bill of sale and will offer to sell Torbek's freedom to the crew.
+
+This mirrors [Henry](henry.md), whom Gune rescued from slavery. Two former slaves on the same crew.
+
 ## Hooks
 
 | | |
@@ -33,10 +41,24 @@ The militia threw him in with [Henry](henry.md), hoping they'd fight to the deat
 | **[Akkik](../npcs/akkik.md)** | Jabba's eyes in Mos Eisley. If he spots Torbek loose, Jabba knows within the hour. |
 | **The Missing Credits** | Nobody knows who actually took the money. Whoever did is still out there, and finding them is the only way Torbek clears his name. |
 | **[Henry](henry.md)** | Spent a night in a cell together. Gamorrean honor considers this significant. |
-| **[Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends)** | Wants him dead over the missing money. No trial, no negotiation. |
+| **[Jabba](https://starwars.fandom.com/wiki/Jabba_Desilijic_Tiure/Legends)** | Says he wants Torbek dead over the missing money. What Jabba actually wants is his property back, or paid for. See [Jabba's Bill](../sessions/season-2/jabbas-bill.md). |
+| **[Bib Fortuna](../npcs/bib-fortuna.md)** | Holds Torbek's bill of sale. Waiting at the crew's docking bay. |
 
 ## Stats
 *Player-created character sheet.*
+
+## Rap Sheet
+
+*Running record of infractions and penalties. See the [Heat Index](../README.md#heat-index).*
+
+| Jurisdiction | Heat | Bounty |
+|---|---|---|
+| Mos Eisley | ●○○ 1 | 500 cr |
+
+| Day | Where | Infraction | Penalty | Status |
+|---|---|---|---|---|
+| Day 2, night | Mos Eisley | Swept up by the militia after the cantina ambush. No charges filed. | Jailed | Escaped (see below) |
+| Day 2, late night | Mos Eisley | Jailbreak: escaped custody with outside help. Set off the alarm and was caught on the station's security holocams. | **500 cr bounty** (Mos Eisley Police, posted at Puggles Trodd's registration board) | Open |
 
 ---
 
