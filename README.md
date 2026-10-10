@@ -77,7 +77,7 @@ Fine to clear all of it with Depp: **~2,500 cr**.
 
 | Character | Heat | Why |
 |---|---|---|
-| [Graff Raster](pcs/graff-raster.md) | ●●● 3 | Captain Parlan's sector-wide reward notice. Jodo Kast and dozens of hunters are after him, and the *Relentless* is on its way. Paying a fine won't clear this. |
+| [Graff Raster](pcs/graff-raster.md) | ●●● 3 | **50,000 cr, alive** (10,000 dead). Captain Parlan's sector-wide reward notice. Jodo Kast and dozens of hunters are after him, and the *Relentless* is on its way. Paying a fine won't clear this. |
 
 ---
 
