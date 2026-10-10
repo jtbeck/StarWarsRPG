@@ -73,6 +73,12 @@ Every PC write-up has a **Rap Sheet**: a running history of infractions and pena
 
 Fine to clear all of it with Depp: **~2,500 cr**.
 
+### Current Heat — Galactic Empire
+
+| Character | Heat | Why |
+|---|---|---|
+| [Graff Raster](pcs/graff-raster.md) | ●●● 3 | Captain Parlan's sector-wide reward notice. Jodo Kast and dozens of hunters are after him, and the *Relentless* is on its way. Paying a fine won't clear this. |
+
 ---
 
 ## Crew Ledger

@@ -150,9 +150,11 @@ Per the template, a failed Jedi typically takes on a PC as a Force student. Graf
 | Jurisdiction | Heat | Bounty |
 |---|---|---|
 | Mos Eisley | ●○○ 1 | 250 cr |
+| **Galactic Empire (sector-wide)** | ●●● 3 | Captain Parlan's reward notice. Amount not stated in the module. |
 
 | Day | Where | Infraction | Penalty | Status |
 |---|---|---|---|---|
+| Before campaign | Sector-wide | Wanted by the Empire. Captain Parlan of the *Relentless* issued a sector-wide reward notice for his capture and hired [Jodo Kast](../npcs/jodo-kast.md). *Why the Empire is after him now is deliberately left unexplained.* | Hunted: dozens of bounty hunters on Tatooine, and a Star Destroyer en route | Open |
 | Day 2, late night | Mos Eisley | Jailbreak: broke Henry and Torbek out of the police station. Set off the alarm and was caught on the station's security holocams. | **250 cr bounty** (Mos Eisley Police, posted at Puggles Trodd's registration board) | Open |
 
 ---
