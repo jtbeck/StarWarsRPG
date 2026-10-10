@@ -10,3 +10,6 @@ package-lock.json
 generate-crawl.sh
 generate-pdf.js
 StarWarsIntroCreator/
+
+# Local working files
+character_sheet.xopp
