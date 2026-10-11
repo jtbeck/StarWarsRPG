@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Heat and Infractions</title>
+<style>
+  @page { size: letter; margin: 0; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'URW Bookman', 'Bookman Old Style', serif;
+    font-size: 9.6pt;
+    line-height: 1.28;
+    color: #111;
+    background: #fff;
+  }
+
+  .page {
+    width: 8.5in;
+    height: 11in;
+    padding: 0.42in 0.62in 0.4in 0.62in;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* --- Running header: WEG Galaxy Guide style --- */
+  .header {
+    display: flex;
+    align-items: flex-end;
+    height: 40px;
+    margin-bottom: 14px;
+  }
+  .logo { flex: none; }
+  .header .rules {
+    flex: 1;
+    position: relative;
+    height: 40px;
+  }
+  .header .rules::before,
+  .header .rules::after {
+    content: '';
+    position: absolute;
+    left: -2px; right: 0;
+    background: #111;
+  }
+  .header .rules::before { top: 17px; height: 4px; }
+  .header .rules::after  { top: 25px; height: 4px; }
+  .header .chapter {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-left: 8px;
+    background: #fff;
+    font-family: 'URW Gothic', sans-serif;
+    font-size: 11pt;
+    line-height: 16px;
+  }
+  .header .chapter b { font-weight: 600; }
+
+  /* --- Title block --- */
+  h1 {
+    font-family: 'URW Gothic', sans-serif;
+    font-weight: 600;
+    font-size: 25pt;
+    letter-spacing: -0.5px;
+    line-height: 1;
+    margin: 4px 0 2px;
+  }
+  .kicker {
+    font-family: 'URW Gothic', sans-serif;
+    font-size: 9.5pt;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    border-bottom: 1.5px solid #111;
+    padding-bottom: 6px;
+    margin-bottom: 10px;
+  }
+
+  .cols {
+    column-count: 2;
+    column-gap: 0.3in;
+    column-rule: 0.75px solid #111;
+    column-fill: auto;
+    height: 8.62in;
+  }
+
+  h2 {
+    font-family: 'URW Gothic', sans-serif;
+    font-weight: 600;
+    font-size: 13.5pt;
+    line-height: 1.1;
+    margin: 9px 0 3px;
+    break-after: avoid;
+  }
+  h2:first-child { margin-top: 0; }
+  h3 {
+    font-family: 'URW Gothic', sans-serif;
+    font-weight: 600;
+    font-size: 10.5pt;
+    margin: 7px 0 2px;
+    break-after: avoid;
+  }
+
+  p { text-align: justify; hyphens: auto; text-indent: 1.1em; }
+  h2 + p, h3 + p, .noindent { text-indent: 0; }
+  p + p { margin-top: 0; }
+
+  .quote {
+    font-style: italic;
+    text-indent: 0;
+    margin: 7px 0 1px 0.9em;
+  }
+  .attrib { text-align: right; text-indent: 0; margin-bottom: 6px; }
+
+  /* --- WEG-style tables --- */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 5px 0 7px;
+    font-size: 8.7pt;
+    line-height: 1.2;
+    break-inside: avoid;
+  }
+  caption {
+    font-family: 'URW Gothic', sans-serif;
+    font-weight: 600;
+    font-size: 9.5pt;
+    text-align: left;
+    padding-bottom: 2px;
+  }
+  th {
+    font-weight: 700;
+    text-align: left;
+    border-top: 1.5px solid #111;
+    border-bottom: 0.75px solid #111;
+    padding: 2px 4px 2px 0;
+  }
+  td { padding: 2px 4px 2px 0; vertical-align: top; }
+  tbody tr:last-child td { border-bottom: 1.5px solid #111; }
+  tr.total td { border-top: 0.75px solid #111; font-weight: 700; }
+  .num { text-align: right; white-space: nowrap; }
+  .pips { font-family: 'DejaVu Sans', sans-serif; font-size: 9.5pt; letter-spacing: 1px; white-space: nowrap; }
+
+  table.levels td { padding-top: 4px; padding-bottom: 4px; }
+  table.levels td:first-child { width: 0.62in; text-align: center; padding-right: 6px; }
+  .lvl { display: block; font-weight: 700; font-size: 13pt; line-height: 1; }
+  .lvl-name { font-weight: 700; }
+  table.levels tbody tr + tr td { border-top: 0.5px dotted #777; }
+
+  /* --- Gray sidebar, like WEG "Note to Gamemasters" boxes --- */
+  .sidebar {
+    background: #d9d9d9;
+    border-top: 2px solid #111;
+    border-bottom: 2px solid #111;
+    padding: 6px 8px 7px;
+    margin: 8px 0;
+    break-inside: avoid;
+    font-size: 8.9pt;
+  }
+  .sidebar h3 { margin-top: 0; }
+  .sidebar p { text-indent: 0; }
+  .sidebar p + p { margin-top: 4px; }
+
+  /* --- Wanted notice --- */
+  .notice {
+    border: 2px solid #111;
+    outline: 0.75px solid #111;
+    outline-offset: 2px;
+    padding: 6px 8px 7px;
+    margin: 10px 3px 6px;
+    text-align: center;
+    break-inside: avoid;
+  }
+  .notice .imp {
+    font-family: 'URW Gothic', sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .notice .big {
+    font-family: 'URW Gothic', sans-serif;
+    font-weight: 600;
+    font-size: 15pt;
+    letter-spacing: 1px;
+    margin: 1px 0;
+  }
+  .notice .amt {
+    font-weight: 700;
+    font-size: 12pt;
+  }
+  .notice p { text-indent: 0; text-align: center; font-size: 8.6pt; }
+
+  /* --- Footer --- */
+  .footer {
+    position: absolute;
+    left: 0.62in; right: 0.62in; bottom: 0.32in;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-top: 1.5px solid #111;
+    padding-top: 3px;
+    font-family: 'URW Gothic', sans-serif;
+    font-size: 9pt;
+  }
+  .footer .pg { font-weight: 600; font-size: 13pt; }
+
+  /* --- Fill-in forms --- */
+  .page + .page { break-before: page; }
+  .blank-pips { font-family: 'DejaVu Sans', sans-serif; font-size: 12pt; letter-spacing: 2px; white-space: nowrap; line-height: 1; }
+  .juris { break-inside: avoid; margin: 4px 0 6px; }
+  .juris .fields { display: flex; gap: 10px; font-family: 'URW Gothic', sans-serif; font-weight: 600; font-size: 8.8pt; margin-bottom: 3px; }
+  .juris .fields span { display: flex; flex: 1; align-items: flex-end; white-space: nowrap; }
+  .juris .fields span::after { content: ''; flex: 1; border-bottom: 0.75px solid #111; margin-left: 4px; height: 1em; }
+  .juris .fields span.wide { flex: 1.4; }
+  table.track { margin: 0; table-layout: fixed; }
+  table.track th { font-size: 8.3pt; }
+  table.track td { height: 0.255in; vertical-align: bottom; padding: 0 5px 2px 0; }
+  table.track td.line { border-bottom: 0.5px solid #888; }
+  table.track tbody tr:last-child td { border-bottom: 1.5px solid #111; }
+  table.track col.c-name { width: 34%; }
+  table.track col.c-heat { width: 20%; }
+  table.track .cr { text-align: right; font-size: 7.5pt; color: #444; }
+  table.track tr.total td { border-top: 0.75px solid #111; font-weight: 700; }
+  .fine-note { font-size: 8pt; text-align: left; text-indent: 0; margin-top: 2px; }
+
+  .tracker-grid { display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.3in; row-gap: 12px; }
+  .tracker-grid .juris { border-top: 2px solid #111; padding-top: 5px; margin: 0; }
+
+  .notice-grid { display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.3in; }
+  .notice.blank { margin: 6px 3px 0; text-align: left; }
+  .notice.blank .imp { text-align: center; margin-bottom: 6px; }
+  .notice .fl { display: flex; align-items: flex-end; font-size: 8.6pt; margin-top: 7px; white-space: nowrap; }
+  .notice .fl b { font-family: 'URW Gothic', sans-serif; font-weight: 600; }
+  .notice .fl::after { content: ''; flex: 1; border-bottom: 0.75px solid #111; margin-left: 4px; height: 1em; }
+  .notice .fl.nofill::after { display: none; }
+  .notice .fl .blank-pips { margin-left: 6px; }
+
+  .footer.even .pg { order: -1; }
+  .blank-pips { display: inline-flex; gap: 4px; vertical-align: -1px; }
+  .blank-pips i { display: block; width: 10px; height: 10px; border: 1px solid #111; border-radius: 50%; }
+  .notes { margin-top: 6px; }
+  .notes h3 { margin: 0 0 0; }
+  .notes div { border-bottom: 0.5px solid #888; height: 0.255in; }
+  table.infr { font-size: 7.9pt; line-height: 1.15; margin-top: 2px; }
+  table.infr td { padding: 2px 5px 2px 0; }
+  table.infr td:first-child { font-weight: 700; width: 0.42in; }
+  table.infr tbody tr + tr td { border-top: 0.5px dotted #777; }
+  .src { font-size: 7.4pt; font-style: italic; text-indent: 0; text-align: right; margin: -5px 0 2px; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <svg class="logo" width="82" height="40" viewBox="0 0 82 40" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="17" width="82" height="4" fill="#111"/>
+      <rect x="0" y="25" width="82" height="4" fill="#111"/>
+      <g font-family="URW Gothic, sans-serif" font-weight="600" font-size="20" font-style="italic" letter-spacing="-1">
+        <text x="18" y="18" stroke="#fff" stroke-width="4" paint-order="stroke" fill="#111">STAR</text>
+        <text x="8" y="39" stroke="#fff" stroke-width="4" paint-order="stroke" fill="#111">WARS</text>
+      </g>
+    </svg>
+    <div class="rules"><div class="chapter">Campaign Rules: <b>Heat and Infractions</b></div></div>
+  </div>
+
+  <h1>Heat and Infractions</h1>
+  <div class="kicker">Wanted Levels, Bounties and Imperial Law</div>
+
+  <div class="cols">
+
+    <h2>Breaking the Law</h2>
+    <p>Sooner or later, every crew of spacers runs afoul of the law. A blown alarm, a security holocam nobody thought to check, a guard who wakes up with a headache and a very good memory of your face: any of these can follow a character long after the job is done.</p>
+    <p>The <i>Heat Index</i> tracks how badly each character is wanted, and by whom. Heat is rated separately for each <i>jurisdiction</i>: a city, a crime lord's organization, or the Galactic Empire itself. A character can be clean in one place and hunted in another.</p>
+
+    <h2>Heat Levels</h2>
+    <p class="noindent">Each jurisdiction where a character is wanted has a Heat rating from 0 to 3.</p>
+
+    <table class="levels">
+      <thead><tr><th style="text-align:center">Heat</th><th>Effect</th></tr></thead>
+      <tbody>
+        <tr>
+          <td><span class="lvl">0</span><span class="pips">○○○</span></td>
+          <td><span class="lvl-name">Clean.</span> Nobody's looking.</td>
+        </tr>
+        <tr>
+          <td><span class="lvl">1</span><span class="pips">●○○</span></td>
+          <td><span class="lvl-name">Noticed.</span> A small local bounty is posted. Make a recognition roll (see below), triggering on a <b>1</b>.</td>
+        </tr>
+        <tr>
+          <td><span class="lvl">2</span><span class="pips">●●○</span></td>
+          <td><span class="lvl-name">Wanted.</span> The bounty doubles. Patrols check IDs. Recognition triggers on a <b>1&ndash;2</b>. Imperial authorities get involved.</td>
+        </tr>
+        <tr>
+          <td><span class="lvl">3</span><span class="pips">●●●</span></td>
+          <td><span class="lvl-name">Hunted.</span> Real bounty hunters take the job. Recognition triggers on a <b>1&ndash;3</b>, and the authorities actively search for the character instead of waiting to stumble onto them.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Recognition Rolls</h3>
+    <p>Whenever a character with Heat is in a public place in that jurisdiction, the gamemaster rolls 1D. If the result falls within the character's trigger range, someone has recognized them: a cop, an amateur bounty hunter, or a snitch hoping to sell a tip. What happens next depends on who spotted them, and how quickly the character notices.</p>
+
+    <h3>Raising Heat</h3>
+    <p>Heat goes up when a character is loud again in the same jurisdiction: a firefight, another alarm, a dead officer. The bigger the incident, the faster it climbs.</p>
+
+    <h3>Clearing Heat</h3>
+    <p>How Heat gets cleared depends on the situation: who wants the character, what they did, and who they know. Paying a fine to the local authority is the usual legal route, and the authority sets the price. In Mos Eisley, that means Prefect Depp, who is sure to make it as humiliating as possible.</p>
+    <p>Heat can also be bribed down, worked off with a favor, forged away with new identity papers, or outrun by leaving the system. Outrunning it doesn't make the bounty go away, though. It just means nobody local is looking&nbsp;&hellip; for now.</p>
+
+    <h3>Imperial Infractions</h3>
+    <table class="infr">
+      <thead><tr><th>Class</th><th>Examples</th><th>Typical Penalty</th></tr></thead>
+      <tbody>
+        <tr><td>One</td><td>Conspiracy against the Empire; attacking a ship</td><td>Ship impounded; 5&ndash;30 years penal colony</td></tr>
+        <tr><td>Two</td><td>Heavy weapons without a permit; illegal (X) goods</td><td>Arrest, impound; 10,000+ cr, 5&ndash;30 years</td></tr>
+        <tr><td>Three</td><td>Bribing an Imperial official; restricted (R) goods</td><td>Ship impounded, captain arrested</td></tr>
+        <tr><td>Four</td><td>Fee (F) goods or narcotics without a permit; no license</td><td>1,000&ndash;5,000 cr; maybe short jail</td></tr>
+        <tr><td>Five</td><td>Local import, export and safety ordinances</td><td>500&ndash;1,000 cr; often bribed away</td></tr>
+      </tbody>
+    </table>
+    <p class="src">From <i>Galaxy Guide 6: Tramp Freighters</i>, pp. 46&ndash;47.</p>
+
+    <div class="sidebar">
+      <h3>Rap Sheets</h3>
+      <p>Every character keeps a <b>Rap Sheet</b>: a running record of infractions and penalties, plus a Heat rating for each jurisdiction where they are wanted.</p>
+      <p>Add an entry whenever the crew breaks the law somewhere that notices, and update it when a fine gets paid or things escalate.</p>
+    </div>
+
+    <h2>Current Postings</h2>
+    <div class="juris">
+      <div class="fields"><span class="wide">Jurisdiction</span><span>Authority</span></div>
+      <table class="track">
+        <colgroup><col class="c-name"><col class="c-heat"><col><col></colgroup>
+        <thead><tr><th>Character</th><th>Heat</th><th class="num">Bounty</th><th class="num">Fine</th></tr></thead>
+        <tbody>
+        <tr><td class="line">Captain Bora</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Indie</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Gune</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Graff Raster</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Henry</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Torbek</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Eck</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr class="total"><td>Total</td><td></td><td class="cr">cr</td><td class="cr">cr</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="fine-note"><b>Fine</b> = whatever it costs to clear that bounty. Track more jurisdictions on the back.</p>
+
+  </div>
+
+  <div class="footer">
+    <span>Season Two Handout</span>
+    <span class="pg">1</span>
+  </div>
+</div>
+
+<div class="page">
+  <div class="header">
+    <svg class="logo" width="82" height="40" viewBox="0 0 82 40" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="17" width="82" height="4" fill="#111"/>
+      <rect x="0" y="25" width="82" height="4" fill="#111"/>
+      <g font-family="URW Gothic, sans-serif" font-weight="600" font-size="20" font-style="italic" letter-spacing="-1">
+        <text x="18" y="18" stroke="#fff" stroke-width="4" paint-order="stroke" fill="#111">STAR</text>
+        <text x="8" y="39" stroke="#fff" stroke-width="4" paint-order="stroke" fill="#111">WARS</text>
+      </g>
+    </svg>
+    <div class="rules"><div class="chapter">Campaign Rules: <b>Bounty Tracker</b></div></div>
+  </div>
+
+  <h1>Bounty Tracker</h1>
+  <div class="kicker">Local Bounties and Reward Notices</div>
+
+  <div class="tracker-grid">
+    <div class="juris">
+      <div class="fields"><span class="wide">Jurisdiction</span><span>Authority</span></div>
+      <table class="track">
+        <colgroup><col class="c-name"><col class="c-heat"><col><col></colgroup>
+        <thead><tr><th>Character</th><th>Heat</th><th class="num">Bounty</th><th class="num">Fine</th></tr></thead>
+        <tbody>
+        <tr><td class="line">Captain Bora</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Indie</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Gune</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Graff Raster</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Henry</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Torbek</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Eck</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr class="total"><td>Total</td><td></td><td class="cr">cr</td><td class="cr">cr</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="juris">
+      <div class="fields"><span class="wide">Jurisdiction</span><span>Authority</span></div>
+      <table class="track">
+        <colgroup><col class="c-name"><col class="c-heat"><col><col></colgroup>
+        <thead><tr><th>Character</th><th>Heat</th><th class="num">Bounty</th><th class="num">Fine</th></tr></thead>
+        <tbody>
+        <tr><td class="line">Captain Bora</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Indie</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Gune</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Graff Raster</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Henry</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Torbek</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Eck</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr class="total"><td>Total</td><td></td><td class="cr">cr</td><td class="cr">cr</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="juris">
+      <div class="fields"><span class="wide">Jurisdiction</span><span>Authority</span></div>
+      <table class="track">
+        <colgroup><col class="c-name"><col class="c-heat"><col><col></colgroup>
+        <thead><tr><th>Character</th><th>Heat</th><th class="num">Bounty</th><th class="num">Fine</th></tr></thead>
+        <tbody>
+        <tr><td class="line">Captain Bora</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Indie</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Gune</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Graff Raster</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Henry</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Torbek</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Eck</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr class="total"><td>Total</td><td></td><td class="cr">cr</td><td class="cr">cr</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="juris">
+      <div class="fields"><span class="wide">Jurisdiction</span><span>Authority</span></div>
+      <table class="track">
+        <colgroup><col class="c-name"><col class="c-heat"><col><col></colgroup>
+        <thead><tr><th>Character</th><th>Heat</th><th class="num">Bounty</th><th class="num">Fine</th></tr></thead>
+        <tbody>
+        <tr><td class="line">Captain Bora</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Indie</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Gune</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Graff Raster</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Henry</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Torbek</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line">Eck</td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr><td class="line"></td><td class="line"><span class="blank-pips"><i></i><i></i><i></i></span></td><td class="line cr">cr</td><td class="line cr">cr</td></tr>
+        <tr class="total"><td>Total</td><td></td><td class="cr">cr</td><td class="cr">cr</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <h2 style="margin-top:14px">Reward Notices</h2>
+  <div class="notice-grid">
+      <div class="notice blank">
+        <div class="imp">Reward Notice &bull; Sector-Wide</div>
+        <div class="fl"><b>Wanted</b></div>
+        <div class="fl nofill"><b>Heat</b><span class="blank-pips"><i></i><i></i><i></i></span></div>
+        <div class="fl"><b>Alive</b></div>
+        <div class="fl"><b>Dead</b></div>
+        <div class="fl"><b>Issued by</b></div>
+        <div class="fl"><b>Notes</b></div>
+      </div>
+      <div class="notice blank">
+        <div class="imp">Reward Notice &bull; Sector-Wide</div>
+        <div class="fl"><b>Wanted</b></div>
+        <div class="fl nofill"><b>Heat</b><span class="blank-pips"><i></i><i></i><i></i></span></div>
+        <div class="fl"><b>Alive</b></div>
+        <div class="fl"><b>Dead</b></div>
+        <div class="fl"><b>Issued by</b></div>
+        <div class="fl"><b>Notes</b></div>
+      </div>
+  </div>
+
+  <div class="footer even">
+    <span>Season Two Handout</span>
+    <span class="pg">2</span>
+  </div>
+</div>
+</body>
+</html>
