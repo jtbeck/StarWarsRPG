@@ -106,6 +106,8 @@ A small desert settlement — humble dwellings, moisture farms, free-roaming [Ba
 
 > *"Oasis doesn't ask for names or explanations. Like the humble [Bantha](https://starwars.fandom.com/wiki/Bantha/Legends), we simply greet newcomers and offer what aid we can."*
 
+**Optional flashback:** After the meal, the Dim-U ask for a story as a toll for the fire. Run [The Vorne Job](the-vorne-job.md), then cut from the end of the flashback straight into the Night Attack.
+
 ### The Night Attack
 
 > *Your peaceful evening ends abruptly as a window shatters and a smoke grenade crashes against the far wall. Dark smoke fills the hall. As citizens flee into the night, blaster fire cuts them down.*
