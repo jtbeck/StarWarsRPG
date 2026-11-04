@@ -31,6 +31,12 @@ Small, furry, large-pointed ears, goggles, brown robes, utility equipment everyw
 
 Gune's relationship with [Henry](henry.md) is central to the Jailbreak episode. He's the only one who can calm Henry mid-rage. The lock-picking approach in the jailbreak is built around his skills.
 
+## GM Secret: The Stowaway
+
+*Not yet revealed in play. Captain Bora doesn't know.*
+
+Gune kidnapped an Imperial officer on Kwenn Space Station (Episode 1) and has been hiding him in Cargo Hold 2 of the *Centennial Duck* ever since. The officer is probably the one whose uniform Eck and Gune wore. The clues surface in [The Resupply Bill](../sessions/season-2/the-resupply-bill.md).
+
 ## Stats
 *Player-managed character sheet.*
 

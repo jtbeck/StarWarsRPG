@@ -95,17 +95,19 @@ The crew's shared credits. Personal funds stay on each character sheet. **Goal:*
 |---|---|---|
 | [Jabba's Bill](sessions/season-2/jabbas-bill.md) | −6,500 to −9,500 (typically ~7,500) | Lost collections plus buying out Torbek's contract. Ep 8, Docking Bay 94. |
 | Clearing Mos Eisley Heat with Depp | −2,200 | Optional. Otherwise the Heat stays. |
-| Fuel and docking fees on the way out | a few hundred | |
+| [The Resupply Bill](sessions/season-2/the-resupply-bill.md) | −1,040 to −1,525 (typically ~1,500) | Landing permit, automatic restock, and excess draw from the stowaway in Hold 2. Dawn of Day 3, with an addendum in Ep 8. |
+| Fuel on the way out | a few hundred | |
 
 ---
 
 ## Session Notes
 
-| Session | Title | Day | Status |
-|---|---|---|---|
-| [The Jailbreak](sessions/season-2/jailbreak.md) | Break Henry out of Mos Eisley jail | Night, Day 2 | Played: Henry and Torbek freed, alarm triggered |
-| [Season 2 Episode 2 — Exploring the Wastes](sessions/season-2/exploring-the-wastes.md) | Into the desert with Old Arno | Day 3 | **← NEXT** |
-| [Jabba's Bill](sessions/season-2/jabbas-bill.md) | Bib Fortuna collects for Torbek. Scene insert for Ep 8. | Day 4 night | Prepped |
+| Session                                                                                | Title                                                   | Day          | Status                                          |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------ | ----------------------------------------------- |
+| [The Jailbreak](sessions/season-2/jailbreak.md)                                        | Break Henry out of Mos Eisley jail                      | Night, Day 2 | Played: Henry and Torbek freed, alarm triggered |
+| [Season 2 Episode 2 — Exploring the Wastes](sessions/season-2/exploring-the-wastes.md) | Into the desert with Old Arno                           | Day 3        | **← NEXT**                                      |
+| [Jabba's Bill](sessions/season-2/jabbas-bill.md)                                       | Bib Fortuna collects for Torbek. Scene insert for Ep 8. | Day 4 night  | Prepped                                         |
+| [The Resupply Bill](sessions/season-2/the-resupply-bill.md) | Docking Bay 94 invoice. Clue to Gune's stowaway. | Day 3 dawn + Day 4 night | Prepped |
 
 ---
 

@@ -15,6 +15,14 @@ A tall, pale [Twi'lek](https://starwars.fandom.com/wiki/Twi%27lek/Legends) in da
 
 **Relevant to [Torbek](../pcs/torbek.md):** Bib holds Torbek's contract, and he knows exactly what it says. See [Jabba's Bill](../sessions/season-2/jabbas-bill.md).
 
+## GM Secret: The Grift
+
+*Not yet revealed in play.*
+
+- **Bib is pocketing the crew's payment.** He collects in Jabba's name, and Jabba never sees a credit.
+- **He knows [Akkik](akkik.md) stole the missing collections** and framed Torbek. He finds it hilarious and keeps it to himself, as leverage over the Jawa.
+- **Torbek means nothing to him.** The bill of sale is just paper that happens to be worth something today.
+
 ## Stats
 
 See ***Star Wars Trilogy Sourcebook*** (WEG), **page 67**.

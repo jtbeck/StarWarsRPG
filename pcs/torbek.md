@@ -30,7 +30,9 @@ The militia threw him in with [Henry](henry.md), hoping they'd fight to the deat
 
 *Not yet revealed in play. Revealed in [Jabba's Bill](../sessions/season-2/jabbas-bill.md).*
 
-Torbek was never Jabba's employee. **His clan sold him into slavery**, for forty crates of Gamorrean ale, and Jabba has owned him ever since. The missing collections are just Jabba's excuse. Ownership is the real hold. [Bib Fortuna](../npcs/bib-fortuna.md) has the bill of sale and will offer to sell Torbek's freedom to the crew.
+Torbek was never Jabba's employee. **His clan sold him into slavery**, for forty crates of Gamorrean ale, and Jabba has owned him ever since. [Bib Fortuna](../npcs/bib-fortuna.md) has the bill of sale and will offer to sell Torbek's freedom to the crew. He'll pocket the money himself; Torbek means nothing to him.
+
+**The missing credits:** [Akkik](../npcs/akkik.md) took them and let Torbek take the blame. Bib knows and is amused.
 
 This mirrors [Henry](henry.md), whom Gune rescued from slavery. Two former slaves on the same crew.
 
